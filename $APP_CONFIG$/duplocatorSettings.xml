@@ -31,12 +31,6 @@
     <option name="DISTINGUISH_LITERALS" value="true" />
     <option name="LOWER_BOUND" value="10" />
     <option name="DISCARD_COST" value="0" />
-    object
-    <option name="DISTINGUISH_VARIABLES" value="false" />
-    <option name="DISTINGUISH_FUNCTIONS" value="true" />
-    <option name="DISTINGUISH_LITERALS" value="true" />
-    <option name="LOWER_BOUND" value="10" />
-    <option name="DISCARD_COST" value="0" />
   </component>
 </application>
 

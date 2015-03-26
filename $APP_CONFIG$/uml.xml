@@ -2,7 +2,7 @@
 <application>
   <component name="UmlConfiguration">
     <option name="fitContentAfterLayout" value="true" />
-    <option name="layout" value="DIRECTED_ORTHOGONAL" />
+    <option name="layout" value="CIRCULAR" />
     <option name="categories">
       <map>
         <entry id="RailsDependency" categories="System DB fields;Own fields" />
