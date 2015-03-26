@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="UISettings">
     <option name="FONT_FACE" value="AbadiMT-CondensedExtraBold" />
@@ -7,9 +6,9 @@
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
   </component>
 </application>
-

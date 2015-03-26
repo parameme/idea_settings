@@ -4,7 +4,7 @@
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
     <property name="RubyMine.full.reindex.required" value="1" />
-    <property name="installation.uid" value="2e989838-18af-4c1a-8e2e-7665a6c841fa" />
-    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="installation.uid" value="e8ee11aa-6007-4497-a5d9-2b96062d2319" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
   </component>
 </application>
