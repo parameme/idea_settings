@@ -152,6 +152,12 @@
         <option value="$USER_HOME$/src/rubygems" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/src/envision" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/src/envision" />
   </component>
   <component name="RecentTaskRepositories">
     <PivotalTracker shared="false" url="https://www.pivotaltracker.com/projects">
@@ -256,6 +262,12 @@
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="EFFECT_TYPE" value="0" />
+    </pattern>
   </component>
   <component name="UsageViewSettings">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
@@ -289,10 +301,9 @@
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
-          <list size="3">
-            <item index="0" class="java.lang.String" itemvalue="Erb File.html" />
-            <item index="1" class="java.lang.String" itemvalue="SQL Script" />
-            <item index="2" class="java.lang.String" itemvalue="RSpec Test Template" />
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="1" class="java.lang.String" itemvalue="RSpec Test Template" />
           </list>
         </value>
       </option>
@@ -319,7 +330,7 @@
     <ignored-resource url="http://www.w3.org/2000/svg" />
     <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
   </component>
-  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" />
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" HIGHLIGHT_MODE="BY_WORD" />
   <component name="com.intellij.psi.impl.source.codeStyle.CodeStyleSchemesImpl">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
