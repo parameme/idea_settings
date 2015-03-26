@@ -1,14 +1,9 @@
-<keymap version="1" name="Vim" parent="Mac OS X">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="meta C" />
-  </action>
+<keymap version="1" name="Vim" parent="TextMate">
+  <action id="$Copy" />
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="shift DELETE" />
-    <keyboard-shortcut first-keystroke="meta X" />
   </action>
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="meta V" />
-  </action>
+  <action id="$Paste" />
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift alt BACK_SPACE" />
   </action>
@@ -27,12 +22,9 @@
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
-  <action id="EditorCopy">
-    <keyboard-shortcut first-keystroke="meta C" />
-  </action>
+  <action id="EditorCopy" />
   <action id="EditorCut">
     <keyboard-shortcut first-keystroke="shift DELETE" />
-    <keyboard-shortcut first-keystroke="meta X" />
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorDeleteToWordEnd" />
@@ -52,9 +44,7 @@
   <action id="EditorNextWordWithSelection" />
   <action id="EditorPageDownWithSelection" />
   <action id="EditorPageUpWithSelection" />
-  <action id="EditorPaste">
-    <keyboard-shortcut first-keystroke="meta V" />
-  </action>
+  <action id="EditorPaste" />
   <action id="EditorPreviousWord" />
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorRedo" />
@@ -115,6 +105,21 @@
   <action id="SmartTypeCompletion" />
   <action id="Starteam.CheckinProject" />
   <action id="Subversion.CommitProject" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
   <action id="ToggleBookmark2" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="shift control alt H" />
