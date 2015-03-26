@@ -1,0 +1,10 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="installation.uid" value="2e989838-18af-4c1a-8e2e-7665a6c841fa" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+  </component>
+</application>
