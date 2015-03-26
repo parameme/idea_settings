@@ -18,13 +18,13 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="spl" type="PLAIN_TEXT" />
-      <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping ext="rspec" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="aspx" type="PLAIN_TEXT" />
       <mapping ext="iml" type="PLAIN_TEXT" />
-      <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping pattern="*.xlsx.axlsx" type="Ruby" />
       <mapping pattern="Vagrantfile" type="Ruby" />
