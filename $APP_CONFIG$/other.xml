@@ -118,46 +118,13 @@
     <option name="textDividerLocation" value="194" />
   </component>
   <component name="RecentTaskRepositories">
-    <PivotalTracker shared="false" url="https://www.pivotaltracker.com/projects">
-      <option name="APIKey" value="7017aedc4288a2593c1bcd1a5ba11591" />
-      <commitMessageFormat>[fixes #{id}]</commitMessageFormat>
-      <password>dfcedfdadfc2df99df99dfc2dfd8dfc2</password>
-      <option name="loginAnonymously" value="false" />
-      <option name="projectId" value="370809" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="true" />
-      <option name="useProxy" value="false" />
-      <username>parameme.com@gmail.com</username>
-    </PivotalTracker>
-    <GitHub shared="false" url="github.com">
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <password />
-      <token>df9adf9ddf93dfc9df98dfc8df9edfccdfcedfcfdf99dfcfdf92dfc8df9bdf9adf9cdf9ddfc9dfcedf92df99dfccdfcfdf9bdf9adf9ddf9edf9edf9bdf92df9ddf9adfcbdf93df9ddf99dfcedf9cdfcc</token>
-      <option name="loginAnonymously" value="false" />
-      <option name="repoAuthor" value="ennova" />
-      <option name="repoName" value="envision" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <option name="user" value="parameme" />
-      <username />
-    </GitHub>
-    <Redmine shared="true" url="http://redmine.easypost.net.au">
-      <option name="APIKey" value="" />
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <password>dfcedfdadfc2df99df99dfc2dfd8dfc2</password>
-      <option name="loginAnonymously" value="false" />
-      <option name="projectId" value="registrar" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <username>lpitts</username>
-    </Redmine>
-    <PivotalTracker shared="false" url="http//www.pivotaltracker.com">
+    <PivotalTracker shared="false" url="http://http//www.pivotaltracker.com">
       <option name="APIKey" value="7017aedc4288a2593c1bcd1a5ba11591" />
       <commitMessageFormat>[fixes #{id}]</commitMessageFormat>
       <password />
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="projectId" value="370809" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="false" />
@@ -169,12 +136,71 @@
       <commitMessageFormat>[fixes #{id}]</commitMessageFormat>
       <password>dfcedfdadfc2df99df99dfc2dfd8dfc2</password>
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="projectId" value="56087" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="true" />
       <option name="useProxy" value="false" />
       <username>parameme</username>
     </PivotalTracker>
+    <PivotalTracker shared="false" url="https://www.pivotaltracker.com/projects">
+      <option name="APIKey" value="7017aedc4288a2593c1bcd1a5ba11591" />
+      <commitMessageFormat>[fixes #{id}]</commitMessageFormat>
+      <password>dfcedfdadfc2df99df99dfc2dfd8dfc2</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="projectId" value="370809" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>parameme.com@gmail.com</username>
+    </PivotalTracker>
+    <GitHub shared="true" url="https://api.github.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9ddfccdf9fdf92df92df9cdfcfdfcfdfc9dfcbdf92dfcedf9edf93df92df9cdf92dfc9dfcfdf92dfcbdf9fdfccdfc9df98dfc8df92df9cdf9bdf93df9fdf9adf9cdf9edfc8df93dfc9dfc9dfcedf9c</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="ennova" />
+      <option name="repoName" value="envision" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+    <GitHub shared="false" url="http://github.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9adf9ddf93dfc9df98dfc8df9edfccdfcedfcfdf99dfcfdf92dfc8df9bdf9adf9cdf9ddfc9dfcedf92df99dfccdfcfdf9bdf9adf9ddf9edf9edf9bdf92df9ddf9adfcbdf93df9ddf99dfcedf9cdfcc</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="ennova" />
+      <option name="repoName" value="envision" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+    <Redmine shared="true" url="http://redmine.easypost.net.au">
+      <option name="APIKey" value="" />
+      <option name="assignedToMe" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject" />
+      <password>dfcedfdadfc2df99df99dfc2dfd8dfc2</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>lpitts</username>
+    </Redmine>
   </component>
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
