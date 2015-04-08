@@ -44,12 +44,6 @@
       <library>
         <url>file://$USER_HOME$/Dropbox/Work/postgresql-9.3-1102.jdbc4.jar</url>
       </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.3-1100.jdbc4.jar</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
-      </library>
     </driver>
     <driver id="hsqldb" name="HSQLDB" dialect="HSQLDB">
       <driver id="hsqldb.embedded" name="Embedded">
