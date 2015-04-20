@@ -156,20 +156,6 @@
       <option name="useProxy" value="false" />
       <username>parameme</username>
     </PivotalTracker>
-    <Redmine shared="true" url="http://redmine.easypost.net.au">
-      <option name="APIKey" value="" />
-      <option name="assignedToMe" value="true" />
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="currentProject" />
-      <password>dfcedfdadfc2df99df99dfc2dfd8dfc2</password>
-      <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <username>lpitts</username>
-    </Redmine>
     <GitHub shared="true" url="https://api.github.com">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <password />
@@ -185,6 +171,20 @@
       <option name="user" value="" />
       <username />
     </GitHub>
+    <Redmine shared="true" url="http://redmine.easypost.net.au">
+      <option name="APIKey" value="" />
+      <option name="assignedToMe" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject" />
+      <password>dfcedfdadfc2df99df99dfc2dfd8dfc2</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>lpitts</username>
+    </Redmine>
     <PivotalTracker shared="false" url="http://http//www.pivotaltracker.com">
       <option name="APIKey" value="7017aedc4288a2593c1bcd1a5ba11591" />
       <commitMessageFormat>[fixes #{id}]</commitMessageFormat>
