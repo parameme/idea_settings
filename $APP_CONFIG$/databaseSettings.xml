@@ -1,6 +1,6 @@
 <application>
   <component name="DatabaseSettings">
-    <text-mode>
+    <text-mode in-literals="true" in-scripts="true">
       <parameter-patterns>
         <parameter-pattern value="?\d+" />
         <parameter-pattern value=":\w+" />
@@ -8,6 +8,7 @@
         <parameter-pattern value="$\{[^$\{\}]*\}" />
         <parameter-pattern value="$\w+$" />
         <parameter-pattern value="#\w+#" />
+        <parameter-pattern value="&lt;%=.*%&gt;" />
       </parameter-patterns>
     </text-mode>
     <extractors>
