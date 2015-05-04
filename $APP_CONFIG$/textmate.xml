@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="TextMateSettings">
     <option name="themesMapping">
@@ -7,9 +6,12 @@
         <entry key="Blackboard" value="Blackboard" />
         <entry key="Cobalt" value="Cobalt" />
         <entry key="Darcula" value="Darcula" />
+        <entry key="Darcula-parameme" value="Mac Classic" />
         <entry key="Default" value="Mac Classic" />
         <entry key="GitHub" value="GitHub" />
+        <entry key="Github" value="GitHub" />
         <entry key="Monokai" value="Monokai" />
+        <entry key="MyDarcula" value="Mac Classic" />
         <entry key="RailsCasts" value="RailsCasts" />
         <entry key="Railscasts" value="Mac Classic" />
         <entry key="Twilight" value="Twilight" />
@@ -20,4 +22,3 @@
     </option>
   </component>
 </application>
-
