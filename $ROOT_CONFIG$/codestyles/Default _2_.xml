@@ -11,6 +11,10 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
+    <option name="NEW_LINE_AFTER_SELECT_2" value="0" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
