@@ -110,6 +110,10 @@
     </option>
     <available-proportions proportions="" version="1" />
   </component>
+  <component name="PsiViewer.Settings">
+    <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
   <component name="PsiViewerSettings">
     <option name="type" />
     <option name="textDividerLocation" value="194" />
