@@ -5,11 +5,10 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
-    <injection language="ruby" injector-id="xml">
-      <display-name>erb</display-name>
+    <injection language="ruby" injector-id="js">
+      <display-name>ERB</display-name>
       <prefix>&lt;%</prefix>
       <suffix>%&gt;</suffix>
-      <place><![CDATA[xmlTag().withLocalName(string().matches("<none>"))]]></place>
     </injection>
   </component>
 </application>
