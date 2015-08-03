@@ -1,6 +1,12 @@
 <keymap version="1" name="Mac OS X 10.5+ copy 0" parent="Mac OS X 10.5+">
+  <action id="DashLauncherAction">
+    <keyboard-shortcut first-keystroke="alt SPACE" />
+  </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="control meta alt G" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta Y" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
