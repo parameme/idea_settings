@@ -10,5 +10,9 @@
       <prefix>&lt;%</prefix>
       <suffix>%&gt;</suffix>
     </injection>
+    <injection language="CSS" injector-id="xml">
+      <display-name>td/@bgcolor</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("bgcolor")).withParent(xmlTag().withLocalName(string().equalTo("td")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
