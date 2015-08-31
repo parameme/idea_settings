@@ -1,17 +1,65 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/src/envision/app/models/resource_rate.sql.erb" timestamp="1441019286527">
+        <mark key="'" line="40" column="8" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="97" column="2" filename="$USER_HOME$/src/envision/app/models/resource_rate.sql.erb" />
+      <jump line="20" column="2" filename="$USER_HOME$/src/envision/app/models/resource_rate.sql.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/envision/app/models/resource_rate.sql.erb" />
+      <jump line="40" column="8" filename="$USER_HOME$/src/envision/app/models/resource_rate.sql.erb" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>%s/\((from)\)/\L\1/g</text>
+      </register>
+      <register name="/" type="4">
+        <text>\((from)\)</text>
+      </register>
+    </registers>
     <search>
+      <last-pattern>\((from)\)</last-pattern>
+      <last-replace>\L\1</last-replace>
+      <last-substitute>\((from)\)</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>\b(case|join)\b</entry>
+        <entry>case</entry>
+        <entry>join</entry>
+        <entry>(join)</entry>
+        <entry>\(join\)</entry>
+        <entry>\(case|when|join|is|not|null|then|select|from|left|and|between|limit|end|as|values|true\)</entry>
+        <entry>\(case\|when\|join\|is\|not\|null\|then\|select\|from\|left\|and\|between\|limit\|end\|as\|values\|true\)</entry>
+        <entry>\(and\)</entry>
+        <entry>(from)</entry>
+        <entry>\(from\)</entry>
+        <entry>\((from)\)</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/\b(case|join)\b/\L\1/g</entry>
+        <entry>%s/case/CASE/g</entry>
+        <entry>%s/(join)/\L\1/g</entry>
+        <entry>%s/\(join\)/\L\1/g</entry>
+        <entry>%s/join/x\1/g</entry>
+        <entry>%s/join/x\\1/g</entry>
+        <entry>%s/(join)/x\1/g</entry>
+        <entry>%s/\(join\)/x\1/g</entry>
+        <entry>%s/\(case|when|join|is|not|null|then|select|from|left|and|between|limit|end|as|values|true\)/\L\1/g</entry>
+        <entry>%s/\(case\|when\|join\|is\|not\|null\|then\|select\|from\|left\|and\|between\|limit\|end\|as\|values\|true\)/\L\1/g</entry>
+        <entry>%s/\(and\)/\L\1/g</entry>
+        <entry>%s/(from)/x/g</entry>
+        <entry>%s/\(from\)/x/g</entry>
+        <entry>%s/\(from\)/\L\1/g</entry>
+        <entry>%s/\((from)\)/\L\1/g</entry>
+        <entry>0</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
