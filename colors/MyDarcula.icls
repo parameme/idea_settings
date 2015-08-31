@@ -208,11 +208,6 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="769aa5" />
-      </value>
-    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -241,11 +236,6 @@
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="cc7833" />
-      </value>
-    </option>
-    <option name="DEFAULT_FUNCTION_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -414,31 +404,6 @@
       <value>
         <option name="FOREGROUND" value="7cb36f" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="bababa" />
-      </value>
-    </option>
-    <option name="HTML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
-    <option name="HTML_ENTITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="6d9cbe" />
-      </value>
-    </option>
-    <option name="HTML_TAG">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -873,32 +838,7 @@
         <option name="FOREGROUND" value="bc3f3c" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="bababa" />
-      </value>
-    </option>
-    <option name="XML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
-    <option name="XML_ENTITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="6d9cbe" />
-      </value>
-    </option>
     <option name="XML_PROLOGUE">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="XML_TAG">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
       </value>
