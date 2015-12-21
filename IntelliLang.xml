@@ -5,5 +5,14 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="ruby" injector-id="js">
+      <display-name>ERB</display-name>
+      <prefix>&lt;%</prefix>
+      <suffix>%&gt;</suffix>
+    </injection>
+    <injection language="CSS" injector-id="xml">
+      <display-name>td/@bgcolor</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("bgcolor")).withParent(xmlTag().withLocalName(string().equalTo("td")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>

@@ -228,6 +228,9 @@
       </set>
     </option>
   </component>
+  <component name="TaskSettings">
+    <option name="ALWAYS_DISPLAY_COMBO" value="true" />
+  </component>
   <component name="TeamCityHistory">
     <option name="HISTORY" value="" />
   </component>
