@@ -6258,12 +6258,14 @@
     </library>
     <library name="rdiscount (v1.6.8, ruby-2.1.6-p336) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rdiscount/1.6.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rdiscount-1.6.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rdiscount-1.6.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rdiscount-1.6.8/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rdiscount-1.6.8/man" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rdiscount/1.6.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rdiscount-1.6.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rdiscount-1.6.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rdiscount-1.6.8/lib" />
