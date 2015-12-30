@@ -1328,6 +1328,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/childprocess-0.5.6/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.5.8, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/childprocess-0.5.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/childprocess-0.5.8/lib" />
+      </SOURCES>
+    </library>
     <library name="chronic (v0.10.2, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/chronic-0.10.2/lib" />
@@ -2314,6 +2322,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/ffaker-1.32.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/ffaker-1.32.1/scripts" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.10, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.10" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/ffi-1.9.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/ffi-1.9.10/gen" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/ffi-1.9.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/ffi-1.9.10/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.10" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/ffi-1.9.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/ffi-1.9.10/gen" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/ffi-1.9.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/ffi-1.9.10/libtest" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.6, ruby-2.1.6-p336) [gem]">
@@ -4458,6 +4482,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/multi_json-1.11.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.11.2, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/multi_json-1.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/multi_json-1.11.2/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.11.2, ruby-2.2.3-p173) [gem]">
@@ -7512,6 +7544,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/selenium-webdriver-2.46.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v2.48.1, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/selenium-webdriver-2.48.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/selenium-webdriver-2.48.1/lib" />
       </SOURCES>
     </library>
     <library name="sexp_processor (v4.4.4, ruby-2.1.6-p336) [gem]">
