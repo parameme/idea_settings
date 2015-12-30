@@ -1280,6 +1280,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/capybara-2.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.5.0, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/capybara-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/capybara-2.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="charazard (v0.0.2, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/charazard-0.0.2/lib" />
@@ -4098,6 +4106,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/mime-types-2.6.1/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v2.99, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/mime-types-2.99/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/mime-types-2.99/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/mime-types-2.99/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/mime-types-2.99/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/mime-types-2.99/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/mime-types-2.99/support" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v2.99, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/mime-types-2.99/lib" />
@@ -5650,6 +5670,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rack-1.6.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rack-1.6.2/contrib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rack-1.6.2/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.4, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rack-1.6.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rack-1.6.4/example" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.4, ruby-2.2.3-p173) [gem]">
@@ -7626,6 +7660,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/site_prism-2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="skylight (v0.10.0, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/lib" />
       </SOURCES>
     </library>
     <library name="slop (v3.6.0, ruby-2.1.6-p336) [gem]">
