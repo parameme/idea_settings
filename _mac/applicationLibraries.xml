@@ -2836,6 +2836,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/haml_coffee_assets-1.16.0/vendor" />
       </SOURCES>
     </library>
+    <library name="haml_coffee_assets (v1.16.0@498475, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/haml_coffee_assets-498475ac0860/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/haml_coffee_assets-498475ac0860/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/haml_coffee_assets-498475ac0860/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/haml_coffee_assets-498475ac0860/vendor" />
+      </SOURCES>
+    </library>
     <library name="has_scope (v0.6.0, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/has_scope-0.6.0/lib" />
