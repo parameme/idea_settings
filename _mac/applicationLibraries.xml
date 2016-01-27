@@ -7236,6 +7236,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rspec-core-3.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.3.2, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-core-3.3.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-core-3.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-core-3.3.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-core-3.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.3.0, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-expectations-3.3.0/lib" />
@@ -7250,6 +7260,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rspec-expectations-3.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.3.1, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-expectations-3.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-expectations-3.3.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-its (v1.1.0@ec977b, ruby-2.1.6-p336) [gem]">
@@ -7298,6 +7316,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.2.3/gems/rspec-mocks-3.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.3.2, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-mocks-3.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-mocks-3.3.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v3.3.1, ruby-2.1.6-p336) [gem]">
