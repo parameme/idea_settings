@@ -5304,6 +5304,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/prmd-0.8.0/schemas" />
       </SOURCES>
     </library>
+    <library name="prmd (v0.8.0@966d37, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/prmd-966d37c20174/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/prmd-966d37c20174/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/prmd-966d37c20174/schemas" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/prmd-966d37c20174/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/prmd-966d37c20174/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/prmd-966d37c20174/schemas" />
+      </SOURCES>
+    </library>
     <library name="prmd (v0.8.0@af5796, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/prmd-af5796af715a/bin" />
