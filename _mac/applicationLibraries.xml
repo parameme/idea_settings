@@ -4842,11 +4842,13 @@
     </library>
     <library name="skylight (v0.10.0, ruby-2.1.6-p336) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/skylight/0.10.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/skylight/0.10.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/skylight-0.10.0/lib" />
