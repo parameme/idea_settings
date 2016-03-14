@@ -990,6 +990,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/coffee-rails-source-maps-29481f2fb421/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-rails-source-paths (v0.0.5@6dbea6, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/coffee-rails-source-paths-6dbea68be812/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/coffee-rails-source-paths-6dbea68be812/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-script (v2.3.0, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/coffee-script-2.3.0/lib" />
