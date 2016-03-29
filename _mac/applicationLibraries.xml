@@ -1884,12 +1884,34 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.1.6/lib/ruby/2.1.0/x86_64-darwin14.0" />
       </SOURCES>
     </library>
+    <library name="jasmine-core (v2.3.4, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/jasmine-core-2.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/jasmine-core-2.3.4/lib" />
+      </SOURCES>
+    </library>
     <library name="jasmine-core (v2.4.1, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/jasmine-core-2.4.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/jasmine-core-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jasmine-rails (v0.10.8@36b986, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/jasmine-rails-36b986bf80b9/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/jasmine-rails-36b986bf80b9/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/jasmine-rails-36b986bf80b9/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/jasmine-rails-36b986bf80b9/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/jasmine-rails-36b986bf80b9/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/jasmine-rails-36b986bf80b9/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/jasmine-rails-36b986bf80b9/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/jasmine-rails-36b986bf80b9/gemfiles" />
       </SOURCES>
     </library>
     <library name="jasmine-rails (v0.12.3, ruby-2.1.6-p336) [gem]">
@@ -2744,6 +2766,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/pg-0.18.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/pg-0.18.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/pg-0.18.2/sample" />
+      </SOURCES>
+    </library>
+    <library name="phantomjs (v1.9.7.1, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/phantomjs-1.9.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/phantomjs-1.9.7.1/lib" />
       </SOURCES>
     </library>
     <library name="phantomjs (v2.1.1.0, ruby-2.1.6-p336) [gem]">
