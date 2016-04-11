@@ -1662,6 +1662,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/interaction-0.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="intercom-rails (v0.2.29, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/intercom-rails-0.2.29/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/intercom-rails-0.2.29/lib" />
+      </SOURCES>
+    </library>
     <library name="io-console (v0.4.2, ruby-2.0.0-p481) [gem]">
       <CLASSES>
         <root url="file:///usr/lib/ruby/2.0.0/dl" />
