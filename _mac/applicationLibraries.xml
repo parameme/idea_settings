@@ -2642,6 +2642,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/bundler/gems/haml_coffee_assets-498475ac0860/vendor" />
       </SOURCES>
     </library>
+    <library name="haml_lint (v0.13.0, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/config" />
+      </SOURCES>
+    </library>
+    <library name="haml_lint (v0.13.0, ruby-2.3.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/haml_lint-0.13.0/config" />
+      </SOURCES>
+    </library>
     <library name="has_scope (v0.6.0, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/has_scope-0.6.0/lib" />
