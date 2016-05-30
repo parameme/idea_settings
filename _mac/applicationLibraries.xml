@@ -548,6 +548,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/ast-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.2.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ast-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ast-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="astrolabe (v1.3.0, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/astrolabe-1.3.0/lib" />
@@ -794,6 +802,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/bundler-1.11.2/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/bundler-1.11.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/bundler-1.11.2/man" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.12.5, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.12.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.12.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.12.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.12.5/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.12.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.12.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.12.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.12.5/man" />
       </SOURCES>
     </library>
     <library name="callsite (v0.0.11, ruby-2.1.6-p336) [gem]">
@@ -1572,6 +1594,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.2.5, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
     <library name="docile (v1.1.5, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/docile-1.1.5/lib" />
@@ -2144,6 +2178,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/given_core-3.8.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/given_core-3.8.0/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="given_core (v3.8.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/given_core-3.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/given_core-3.8.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/given_core-3.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/given_core-3.8.0/rakelib" />
       </SOURCES>
     </library>
     <library name="globalid (v0.3.6, ruby-2.1.6-p336) [gem]">
@@ -3612,6 +3656,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/parser-2.3.0.pre.2/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.1.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/parser-2.3.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/parser-2.3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/parser-2.3.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/parser-2.3.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pdf-reader (v1.4.0, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/pdf-reader-1.4.0/bin" />
@@ -4566,6 +4620,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-3.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.4.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.3.1, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-core-3.3.1/exe" />
@@ -4626,6 +4688,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-core-3.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.4.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.3.0, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-expectations-3.3.0/lib" />
@@ -4674,6 +4746,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-expectations-3.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.4.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-expectations-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-expectations-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-given (v3.8.0, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-given-3.8.0/lib" />
@@ -4692,6 +4772,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-given-3.8.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-given-3.8.0/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-given (v3.8.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-given-3.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-given-3.8.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-given-3.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-given-3.8.0/rakelib" />
       </SOURCES>
     </library>
     <library name="rspec-its (v1.1.0@ec977b, ruby-2.1.6-p336) [gem]">
@@ -4790,6 +4880,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-mocks-3.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.4.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-mocks-3.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-mocks-3.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.3.2, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-rails-3.3.2/lib" />
@@ -4852,6 +4950,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/rspec-support-3.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.4.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-support-3.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-support-3.4.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-the (v1.0.1, ruby-2.1.6-p336) [gem]">
@@ -5394,6 +5500,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/sorcerer-1.0.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/sorcerer-1.0.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="sorcerer (v1.0.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/sorcerer-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/sorcerer-1.0.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/sorcerer-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/sorcerer-1.0.2/rakelib" />
       </SOURCES>
     </library>
     <library name="spreadsheet (v1.0.3, ruby-2.1.6-p336) [gem]">
