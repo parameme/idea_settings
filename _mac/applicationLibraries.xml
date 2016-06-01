@@ -1408,6 +1408,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/colored-1.2/lib" />
       </SOURCES>
     </library>
+    <library name="colored (v1.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/colored-1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/colored-1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="committee (v1.9.1, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/committee-1.9.1/bin" />
@@ -2856,6 +2864,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/git-up-0.5.12/man" />
       </SOURCES>
     </library>
+    <library name="git-up (v0.5.12, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/git-up-0.5.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/git-up-0.5.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/git-up-0.5.12/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/git-up-0.5.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/git-up-0.5.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/git-up-0.5.12/man" />
+      </SOURCES>
+    </library>
     <library name="given_core (v3.8.0, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/given_core-3.8.0/lib" />
@@ -2934,12 +2954,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/google_visualr-2.1.7/lib" />
       </SOURCES>
     </library>
+    <library name="grit (v2.5.0, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/grit-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/grit-2.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="grit (v2.5.0, ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/grit-2.5.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/grit-2.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="grit (v2.5.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/grit-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/grit-2.5.0/lib" />
       </SOURCES>
     </library>
     <library name="haml (v4.0.5, ruby-2.1.6-p336) [gem]">
@@ -4284,6 +4320,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/mime-types-1.25.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v1.25.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/mime-types-1.25.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/mime-types-1.25.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v2.99, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/mime-types-2.99/lib" />
@@ -5158,6 +5202,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/porth-13d6742a731f/lib" />
       </SOURCES>
     </library>
+    <library name="posix-spawn (v0.3.11, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/lib" />
+      </SOURCES>
+    </library>
     <library name="posix-spawn (v0.3.11, ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/posix-spawn-0.3.11/bin" />
@@ -5168,6 +5224,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/posix-spawn-0.3.11/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/posix-spawn-0.3.11/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/posix-spawn-0.3.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="posix-spawn (v0.3.11, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/posix-spawn-0.3.11/lib" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.3, ruby-2.1.6-p336) [gem]">
@@ -5658,6 +5726,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-timeout (v0.4.2, ruby-2.1.6-p336) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-timeout-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-timeout-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-timeout (v0.4.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-timeout-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-timeout-0.4.2/lib" />
       </SOURCES>
     </library>
     <library name="rails (v4.2.5.1, ruby-2.1.6-p336) [gem]">
