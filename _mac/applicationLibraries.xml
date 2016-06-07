@@ -2146,18 +2146,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/devise_invitable-1.4.2/config" />
       </SOURCES>
     </library>
-    <library name="did_you_mean (v1.0.0, ruby-2.1.6-p336) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
-      </SOURCES>
-    </library>
     <library name="diff-lcs (v1.2.5, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/diff-lcs-1.2.5/bin" />
@@ -4530,14 +4518,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/mini_portile2-2.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="minitest (v5.8.3, ruby-2.1.6-p336) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/lib" />
-      </SOURCES>
-    </library>
     <library name="minitest (v5.8.4, ruby-2.1.6-p336) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/minitest-5.8.4/lib" />
@@ -4716,16 +4696,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/net-ssh-2.8.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/net-ssh-2.8.0/support" />
-      </SOURCES>
-    </library>
-    <library name="net-telnet (v0.1.1, ruby-2.1.6-p336) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="netrc (v0.7.1, ruby-2.1.6-p336) [gem]">
@@ -5388,14 +5358,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/power_assert-0.2.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="power_assert (v0.2.6, ruby-2.1.6-p336) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
       </SOURCES>
     </library>
     <library name="powerpack (v0.0.9, ruby-2.1.6-p336) [gem]">
@@ -6138,18 +6100,6 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/raindrops/0.13.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/raindrops-0.13.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/raindrops-0.13.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rake (v10.4.2, ruby-2.1.6-p336) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
     <library name="rake (v10.5.0, ruby-2.1.6-p336) [gem]">
@@ -8080,16 +8030,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/test-unit-3.1.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.1.6/gems/test-unit-3.1.2/sample" />
-      </SOURCES>
-    </library>
-    <library name="test-unit (v3.1.5, ruby-2.1.6-p336) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
       </SOURCES>
     </library>
     <library name="test_after_commit (v0.4.1, ruby-2.1.6-p336) [gem]">
