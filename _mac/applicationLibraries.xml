@@ -288,6 +288,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.12.5/man" />
       </SOURCES>
     </library>
+    <library name="bundler-audit (v0.5.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-audit-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-audit-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-audit-0.5.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-audit-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-audit-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-audit-0.5.0/data" />
+      </SOURCES>
+    </library>
     <library name="callsite (v0.0.11, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/callsite-0.0.11/lib" />
