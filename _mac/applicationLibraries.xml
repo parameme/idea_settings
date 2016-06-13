@@ -2884,6 +2884,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/skylight-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="skylight (v1.0.0.beta4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/skylight/1.0.0.beta4" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/skylight-1.0.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/skylight-1.0.0.beta4/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/skylight-1.0.0.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/skylight/1.0.0.beta4" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/skylight-1.0.0.beta4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/skylight-1.0.0.beta4/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/skylight-1.0.0.beta4/lib" />
+      </SOURCES>
+    </library>
     <library name="slop (v3.6.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/slop-3.6.0/lib" />
