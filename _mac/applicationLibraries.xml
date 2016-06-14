@@ -1360,6 +1360,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/heroics-0.0.14/lib" />
       </SOURCES>
     </library>
+    <library name="heroku-api (v0.4.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/heroku-api-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/heroku-api-0.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="heroku-deflater (v0.5.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/heroku-deflater-0.5.3/lib" />
