@@ -11,6 +11,9 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
     <option name="NEW_LINE_AFTER_SELECT_2" value="0" />
