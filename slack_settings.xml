@@ -1,0 +1,19 @@
+<application>
+  <component name="SlackStorage">
+    <option name="settings">
+      <map>
+        <entry key="Ennova#dev" value="T024L8B0M/B1K5JT5U4/hdsdUtHLiYGQB8auk9fYMBF2" />
+      </map>
+    </option>
+    <option name="aliases">
+      <map>
+        <entry key="Ennova#dev" value="rubymine" />
+      </map>
+    </option>
+    <option name="icons">
+      <map>
+        <entry key="Ennova#dev" value=":pick:" />
+      </map>
+    </option>
+  </component>
+</application>
