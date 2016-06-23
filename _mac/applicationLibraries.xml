@@ -2142,6 +2142,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/param_protected-4.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.1.9, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/parser-2.1.9/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/parser-2.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/parser-2.1.9/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/parser-2.1.9/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.3.0.pre.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/parser-2.3.0.pre.2/bin" />
@@ -2842,20 +2852,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/assets" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/config" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/relnotes" />
-      </SOURCES>
-    </library>
-    <library name="rubocop (v0.40.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/assets" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/assets" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/config" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.0, ruby-2.3.1-p112) [gem]">
