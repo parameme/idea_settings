@@ -1746,6 +1746,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/jquery-rails-2.1.4/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-rails (v2.3.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/jquery-rails-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/jquery-rails-2.3.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/jquery-rails-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/jquery-rails-2.3.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="json_schema (v0.7.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json_schema-0.7.0/bin" />
@@ -2234,6 +2244,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/powerpack-0.0.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="premailer (v1.7.9, ruby-2.3.1-p112) [gem]">
@@ -2826,6 +2844,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/relnotes" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.40.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.40.0/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-debug-ide-0.6.0/bin" />
@@ -3304,6 +3336,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/unf_ext-0.0.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/unf_ext-0.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.1.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/unicode-display_width-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/unicode-display_width-1.1.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/unicode-display_width-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/unicode-display_width-1.1.0/data" />
       </SOURCES>
     </library>
     <library name="unicorn (v4.6.2, ruby-2.3.1-p112) [gem]">
