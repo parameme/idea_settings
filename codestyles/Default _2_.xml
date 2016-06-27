@@ -12,6 +12,7 @@
     </value>
   </option>
   <option name="HTML_KEEP_WHITESPACES" value="true" />
+  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
