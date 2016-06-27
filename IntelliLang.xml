@@ -10,6 +10,10 @@
       <prefix>&lt;%</prefix>
       <suffix>%&gt;</suffix>
     </injection>
+    <injection language="Markdown" injector-id="xml">
+      <display-name>section</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("section")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
     <injection language="CSS" injector-id="xml">
       <display-name>td/@bgcolor</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("bgcolor")).withParent(xmlTag().withLocalName(string().equalTo("td")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
