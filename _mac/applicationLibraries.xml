@@ -168,6 +168,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ancestry-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="ansi (v1.5.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ansi-1.5.0/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ansi-1.5.0/demo" />
+      </SOURCES>
+    </library>
     <library name="arel (v6.0.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/arel-6.0.3/lib" />
@@ -1836,6 +1846,7 @@
     </library>
     <library name="json (v1.8.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json_pure-1.8.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json_pure-1.8.3/data" />
@@ -1845,6 +1856,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json_pure-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json_pure-1.8.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json_pure-1.8.3/data" />
@@ -2230,6 +2242,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/paperclip-3.4.0/features" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/paperclip-3.4.0/gemfiles" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/paperclip-3.4.0/shoulda_macros" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.9.16, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/papertrail-0.9.16/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/papertrail-0.9.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/papertrail-0.9.16/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/papertrail-0.9.16/lib" />
       </SOURCES>
     </library>
     <library name="parallel (v1.8.0, ruby-2.3.1-p112) [gem]">
