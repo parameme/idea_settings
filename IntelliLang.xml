@@ -5,10 +5,8 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
-    <injection language="ruby" injector-id="sql" pattern="ERB" enabled="true">
-      <display-name>ERB</display-name>
-      <prefix>&lt;%(=?)</prefix>
-      <suffix>%&gt;</suffix>
+    <injection language="ruby" injector-id="sql" pattern="&lt;%= ERB %&gt;" enabled="true">
+      <display-name>&lt;%= ERB %&gt;</display-name>
     </injection>
     <injection language="Markdown" injector-id="xml">
       <display-name>section</display-name>

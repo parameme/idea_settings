@@ -10,7 +10,6 @@
         <parameter-pattern value="$\{[^$\{\}]*\}" />
         <parameter-pattern value="$\w+$" />
         <parameter-pattern value="#(\w+)#" scope="XML" predefined="true" />
-        <parameter-pattern value="&lt;%=.*%&gt;" />
         <parameter-pattern value="\?(\d+)" in-scripts="false" in-literals="false" />
         <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="false" in-literals="false" />
         <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="false" in-literals="false" />
