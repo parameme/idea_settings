@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.sql.erb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="markdown" type="Markdown" />
       <mapping pattern=".postgresql-version" type="PLAIN_TEXT" />
