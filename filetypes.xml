@@ -3,19 +3,20 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="markdown" type="Markdown" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".postgresql-version" type="PLAIN_TEXT" />
-      <mapping pattern="CostSelectorValue" type="PLAIN_TEXT" />
-      <mapping pattern="upgrade_db" type="PLAIN_TEXT" />
-      <mapping pattern="postgres_copier" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="fails" type="PLAIN_TEXT" />
+      <mapping pattern="postgres_copier" type="PLAIN_TEXT" />
+      <mapping pattern="upgrade_db" type="PLAIN_TEXT" />
+      <mapping pattern="CostSelectorValue" type="PLAIN_TEXT" />
       <mapping ext="split2" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="db_versions" type="Ruby" />
-      <mapping pattern="fragments" type="SQL" />
+      <mapping pattern="*.sql.erb" type="SQL" />
       <mapping pattern="sql" type="SQL" />
+      <mapping pattern="fragments" type="SQL" />
     </extensionMap>
   </component>
 </application>
