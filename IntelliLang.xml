@@ -7,6 +7,8 @@
     <option name="RESOLVE_REFERENCES" value="true" />
     <injection language="ruby" injector-id="sql" pattern="&lt;%= ERB %&gt;" enabled="true">
       <display-name>&lt;%= ERB %&gt;</display-name>
+      <prefix>&amp;lt;%=</prefix>
+      <suffix>%&amp;gt;</suffix>
     </injection>
     <injection language="Markdown" injector-id="xml">
       <display-name>section</display-name>
