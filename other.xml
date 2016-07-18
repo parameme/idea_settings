@@ -70,9 +70,6 @@
     <enable-debug-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
-  <component name="DependencyUISettings">
-    <option name="UI_SHOW_FILES" value="false" />
-  </component>
   <component name="DownloadedDatabaseDrivers">
     <driver class="org.postgresql.Driver">
       <file url="file://$USER_HOME$/Library/Preferences/RubyMine40/jdbc-drivers/postgresql-driver-license.txt" />
