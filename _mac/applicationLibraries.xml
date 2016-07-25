@@ -3274,6 +3274,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.41.2/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.42.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.42.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.42.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.42.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.42.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.42.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.42.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.42.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.42.0/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-debug-ide-0.6.0/bin" />
