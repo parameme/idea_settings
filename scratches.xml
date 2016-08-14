@@ -11,6 +11,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch1.html" value="HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" value="HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" value="PostgreSQL" />
@@ -19,6 +20,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="RHTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="PostgreSQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="PostgreSQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14" value="PostgreSQL" />
