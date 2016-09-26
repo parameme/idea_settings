@@ -10,6 +10,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/abstract_type-0.0.7/config" />
       </SOURCES>
     </library>
+    <library name="ace-rails-ap (v4.1.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ace-rails-ap-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ace-rails-ap-4.1.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ace-rails-ap-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ace-rails-ap-4.1.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.2.5.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/actionmailer-4.2.5.1/lib" />
