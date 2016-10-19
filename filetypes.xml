@@ -14,7 +14,6 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="db_versions" type="Ruby" />
-      <mapping pattern="*.sql.erb" type="SQL" />
       <mapping pattern="sql" type="SQL" />
       <mapping pattern="fragments" type="SQL" />
     </extensionMap>
