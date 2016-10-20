@@ -5,6 +5,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/production_chart_plan.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" value="PostgreSQL" />
@@ -32,6 +33,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16" value="PostgreSQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_19" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="TEXT" />
