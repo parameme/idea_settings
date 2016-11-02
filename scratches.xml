@@ -1,9 +1,6 @@
 <application>
   <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/development_chart_plan.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/gchq.rb" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/production_chart_plan.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" value="ruby" />
