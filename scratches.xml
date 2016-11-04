@@ -105,6 +105,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.sql" value="PostgreSQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.rb" value="ruby" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.sql" value="PostgreSQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.txt" value="TEXT" />
   </component>
