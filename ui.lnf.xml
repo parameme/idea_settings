@@ -4,7 +4,6 @@
   </component>
   <component name="UISettings">
     <option name="FONT_FACE" value="Al Bayan" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
