@@ -636,14 +636,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coffee-rails-4.1.1/lib" />
       </SOURCES>
     </library>
-    <library name="coffee-rails-source-maps (v1.4.0@29481f, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/bundler/gems/coffee-rails-source-maps-29481f2fb421/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/bundler/gems/coffee-rails-source-maps-29481f2fb421/lib" />
-      </SOURCES>
-    </library>
     <library name="coffee-script (v2.3.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coffee-script-2.3.0/lib" />
@@ -690,14 +682,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/colorize-0.8.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="colorize (v0.8.1, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/colorize-0.8.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/colorize-0.8.1/lib" />
       </SOURCES>
     </library>
     <library name="committee (v1.9.1, ruby-2.3.1-p112) [gem]">
@@ -876,16 +860,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/debase-0.2.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/debase-0.2.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.2.beta8, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta8/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta8/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta8/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta8/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.0, ruby-2.3.1-p112) [gem]">
@@ -3340,22 +3314,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/reek-4.0.2/features" />
       </SOURCES>
     </library>
-    <library name="reek (v4.1.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/reek-4.1.0/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/reek-4.1.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/reek-4.1.0/logo" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/reek-4.1.0/tasks" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/reek-4.1.0/features" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/reek-4.1.0/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/reek-4.1.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/reek-4.1.0/logo" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/reek-4.1.0/tasks" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/reek-4.1.0/features" />
-      </SOURCES>
-    </library>
     <library name="request_store (v1.0.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/request_store-1.0.5/lib" />
@@ -3746,18 +3704,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubycritic-2.9.1/features" />
       </SOURCES>
     </library>
-    <library name="rubycritic (v2.9.2, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubycritic-2.9.2/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubycritic-2.9.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubycritic-2.9.2/features" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubycritic-2.9.2/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubycritic-2.9.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubycritic-2.9.2/features" />
-      </SOURCES>
-    </library>
     <library name="rubyzip (v1.1.7, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.1.7/lib" />
@@ -3868,14 +3814,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/sexp_processor-4.6.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="sexp_processor (v4.7.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sexp_processor-4.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sexp_processor-4.7.0/lib" />
       </SOURCES>
     </library>
     <library name="shoulda-matchers (v2.8.0, ruby-2.3.1-p112) [gem]">
