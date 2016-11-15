@@ -446,6 +446,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.12.5/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.13.6, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.13.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.13.6/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.13.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.13.6/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.13.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.13.6/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.13.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-1.13.6/man" />
+      </SOURCES>
+    </library>
     <library name="bundler-audit (v0.5.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/bundler-audit-0.5.0/bin" />
@@ -2224,6 +2238,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/liquid-3.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="liquid (v3.0.6, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/liquid-3.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/liquid-3.0.6/lib" />
       </SOURCES>
     </library>
     <library name="listen (v3.0.5, ruby-2.3.1-p112) [gem]">
