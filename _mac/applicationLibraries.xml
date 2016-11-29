@@ -4132,6 +4132,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/with_advisory_lock-3.0.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="with_advisory_lock (v3.0.0@f4f956, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/with_advisory_lock-f4f956528513/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/with_advisory_lock-f4f956528513/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/with_advisory_lock-f4f956528513/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/with_advisory_lock-f4f956528513/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="with_model (v1.2.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/with_model-1.2.1/lib" />
