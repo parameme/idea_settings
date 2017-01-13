@@ -4160,6 +4160,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/with_model-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="wkhtmltopdf-binary (v0.1.0@0ee7dd, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/wkhtmltopdf-binary-0ee7dd80a66d/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/wkhtmltopdf-binary-0ee7dd80a66d/bin" />
+      </SOURCES>
+    </library>
     <library name="xml-simple (v1.1.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/xml-simple-1.1.5/lib" />
