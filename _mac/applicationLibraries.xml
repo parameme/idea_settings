@@ -598,10 +598,12 @@
     </library>
     <library name="bcrypt (v3.1.9, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/bcrypt-3.1.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/bcrypt-3.1.9/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/bcrypt-3.1.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/bcrypt-3.1.9/lib" />
       </SOURCES>
@@ -636,10 +638,12 @@
     </library>
     <library name="binding_of_caller (v0.7.2, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
@@ -662,6 +666,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.3, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/builder-3.2.3/rakelib" />
       </SOURCES>
     </library>
     <library name="bullet (v4.14.7, ruby-2.3.1-p112) [gem]">
@@ -786,6 +810,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/CFPropertyList-2.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="CFPropertyList (v2.3.5, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/CFPropertyList-2.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/CFPropertyList-2.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="CFPropertyList (v2.3.5, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/CFPropertyList-2.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/CFPropertyList-2.3.5/lib" />
       </SOURCES>
     </library>
     <library name="charazard (v0.0.2, ruby-2.3.1-p112) [gem]">
@@ -1096,6 +1136,50 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/compass-rails-2.0.4/gemfiles" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.4@2a8a58, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/benchmarks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/build-tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/benchmarks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/build-tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="concurrent-ruby (v1.0.4@2a8a58, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/benchmarks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/build-tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/benchmarks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/build-tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/concurrent-ruby-2a8a5896a064/yard-template" />
+      </SOURCES>
+    </library>
     <library name="conflict_detector (v0.0.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/conflict_detector-0.0.1/lib" />
@@ -1180,11 +1264,13 @@
     </library>
     <library name="curb (v0.8.8, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/curb/0.8.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/curb-0.8.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/curb-0.8.8/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/curb-0.8.8/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/curb/0.8.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/curb-0.8.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/curb-0.8.8/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/curb-0.8.8/tests" />
@@ -1240,10 +1326,12 @@
     </library>
     <library name="debug_inspector (v0.0.2, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -1620,6 +1708,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.49.0/benchmarks" />
       </SOURCES>
     </library>
+    <library name="excon (v0.54.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="excon (v0.54.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/excon-0.54.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.2.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/execjs-2.2.2/lib" />
@@ -1698,12 +1814,14 @@
     </library>
     <library name="ffi (v1.9.6, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ffi-1.9.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ffi-1.9.6/gen" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ffi-1.9.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ffi-1.9.6/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ffi-1.9.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ffi-1.9.6/gen" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/ffi-1.9.6/lib" />
@@ -1846,6 +1964,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-0.9.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-aws (v1.2.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-aws (v1.2.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-aws-1.2.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-brightbox (v0.10.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.10.1/lib" />
@@ -1868,6 +2010,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.10.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.10.1/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.10.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-brightbox (v0.11.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-brightbox (v0.11.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-brightbox-0.11.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="fog-cloudatcost (v0.1.2, ruby-2.3.1-p112) [gem]">
@@ -1904,6 +2070,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-core-1.40.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-core (v1.43.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-core-1.43.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-core-1.43.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-core (v1.43.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-core-1.43.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-core-1.43.0/lib" />
       </SOURCES>
     </library>
     <library name="fog-dynect (v0.0.3, ruby-2.3.1-p112) [gem]">
@@ -2018,6 +2200,50 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-local-0.3.0/tests" />
       </SOURCES>
     </library>
+    <library name="fog-local (v0.3.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-local-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-local-0.3.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-local-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-local-0.3.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-local (v0.3.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-local-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-local-0.3.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-local-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-local-0.3.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-openstack (v0.1.19, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-openstack (v0.1.19, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.19/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-openstack (v0.1.6, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-openstack-0.1.6/bin" />
@@ -2090,6 +2316,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-0.0.5/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-profitbricks (v3.0.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-profitbricks (v3.0.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-profitbricks-3.0.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-rackspace (v0.1.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.1/bin" />
@@ -2112,6 +2362,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-rackspace (v0.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-rackspace (v0.1.4, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-rackspace-0.1.4/tests" />
       </SOURCES>
     </library>
     <library name="fog-radosgw (v0.0.5, ruby-2.3.1-p112) [gem]">
@@ -2230,6 +2504,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-softlayer (v1.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-softlayer (v1.1.4, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-softlayer-1.1.4/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-storm_on_demand (v0.1.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-storm_on_demand-0.1.1/lib" />
@@ -2338,6 +2636,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-0.7.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-vsphere (v1.7.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-vsphere (v1.7.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-vsphere-1.7.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-xenserver (v0.2.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-xenserver-0.2.3/lib" />
@@ -2356,6 +2678,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-xenserver-0.2.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/fog-xenserver-0.2.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-xenserver (v0.2.3@fe48db, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/fog-xenserver-fe48dbc4170e/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/fog-xenserver-fe48dbc4170e/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/fog-xenserver-fe48dbc4170e/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/fog-xenserver-fe48dbc4170e/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-xenserver (v0.2.3@fe48db, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/fog-xenserver-fe48dbc4170e/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/fog-xenserver-fe48dbc4170e/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/fog-xenserver-fe48dbc4170e/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/fog-xenserver-fe48dbc4170e/gemfiles" />
       </SOURCES>
     </library>
     <library name="fog-xml (v0.1.2, ruby-2.3.1-p112) [gem]">
@@ -3298,6 +3640,7 @@
     </library>
     <library name="json (v1.8.6, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/json-1.8.6/data" />
@@ -3307,6 +3650,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/json-1.8.6/data" />
@@ -3384,11 +3728,13 @@
     </library>
     <library name="kgio (v2.9.3, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.9.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/kgio-2.9.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/kgio-2.9.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/kgio-2.9.3/archive" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.9.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/kgio-2.9.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/kgio-2.9.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/kgio-2.9.3/archive" />
@@ -3678,6 +4024,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/mini_portile2-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="mini_portile2 (v2.1.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/mini_portile2-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/mini_portile2-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.1.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/mini_portile2-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/mini_portile2-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.10.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.0/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
@@ -3840,6 +4202,7 @@
     </library>
     <library name="nokogiri (v1.6.7.2, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.6.7.2/lib" />
@@ -3848,12 +4211,51 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.6.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.6.7.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.6.7.2/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.6.7.2/patches" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.6.7.2/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.7.0.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.7.0.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.0.1" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.0.1" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/nokogiri-1.7.0.1/suppressions" />
       </SOURCES>
     </library>
     <library name="oily_png (v1.1.0, ruby-2.3.1-p112) [gem]">
@@ -3872,11 +4274,13 @@
     </library>
     <library name="oily_png (v1.1.0, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oily_png/1.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/oily_png-1.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/oily_png-1.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/oily_png-1.1.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oily_png/1.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/oily_png-1.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/oily_png-1.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/oily_png-1.1.0/tasks" />
@@ -4078,11 +4482,13 @@
     </library>
     <library name="pg (v0.18.2, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.18.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/pg-0.18.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/pg-0.18.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/pg-0.18.2/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.18.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/pg-0.18.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/pg-0.18.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/pg-0.18.2/sample" />
@@ -4758,10 +5164,12 @@
     </library>
     <library name="raindrops (v0.13.0, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.13.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/raindrops-0.13.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/raindrops-0.13.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.13.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/raindrops-0.13.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/raindrops-0.13.0/lib" />
       </SOURCES>
@@ -4830,11 +5238,13 @@
     </library>
     <library name="rb-fsevent (v0.9.4, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rb-fsevent-0.9.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rb-fsevent-0.9.4/lib" />
@@ -4880,6 +5290,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.8.2/devel" />
       </SOURCES>
     </library>
+    <library name="rbvmomi (v1.9.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/devel" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/devel" />
+      </SOURCES>
+    </library>
+    <library name="rbvmomi (v1.9.4, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/devel" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rbvmomi-1.9.4/devel" />
+      </SOURCES>
+    </library>
     <library name="rdiscount (v1.6.8, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rdiscount/1.6.8" />
@@ -4898,12 +5332,14 @@
     </library>
     <library name="rdiscount (v1.6.8, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rdiscount/1.6.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rdiscount-1.6.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rdiscount-1.6.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rdiscount-1.6.8/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rdiscount-1.6.8/man" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rdiscount/1.6.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rdiscount-1.6.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rdiscount-1.6.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/rdiscount-1.6.8/lib" />
@@ -4926,11 +5362,13 @@
     </library>
     <library name="redcarpet (v3.3.3, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.3.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/redcarpet-3.3.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/redcarpet-3.3.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/redcarpet-3.3.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.3.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/redcarpet-3.3.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/redcarpet-3.3.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/redcarpet-3.3.3/lib" />
@@ -5450,6 +5888,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/sass-rails-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="scheduler (v0.3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/scheduler-0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/scheduler-0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="scheduler (v0.3, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/scheduler-0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/scheduler-0.3/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v2.46.2, ruby-2.3.1-p112) [gem]">
@@ -6028,6 +6482,7 @@
     </library>
     <library name="unicorn (v4.6.2, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/4.6.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/unicorn-4.6.2/t" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/unicorn-4.6.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/unicorn-4.6.2/ext" />
@@ -6037,6 +6492,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/unicorn-4.6.2/Documentation" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/4.6.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/unicorn-4.6.2/t" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/unicorn-4.6.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/unicorn-4.6.2/ext" />
@@ -6224,10 +6680,12 @@
     </library>
     <library name="websocket-driver (v0.6.4, ruby-2.4.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/websocket-driver-0.6.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/websocket-driver-0.6.4/lib" />
       </SOURCES>
