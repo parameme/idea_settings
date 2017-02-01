@@ -6292,6 +6292,62 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thor-0.19.1/lib" />
       </SOURCES>
     </library>
+    <library name="thread_safe (v0.3.5, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.5, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.5@07f264, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.5@07f264, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.0/bundler/gems/thread_safe-07f264a9f417/yard-template" />
+      </SOURCES>
+    </library>
     <library name="tilt (v1.4.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/tilt-1.4.1/bin" />
