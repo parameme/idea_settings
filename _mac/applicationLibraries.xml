@@ -516,6 +516,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/churn-0.0.35/man" />
       </SOURCES>
     </library>
+    <library name="cliver (v0.3.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/cliver-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/cliver-0.3.2/.githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/cliver-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/cliver-0.3.2/.githooks" />
+      </SOURCES>
+    </library>
     <library name="cocaine (v0.4.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/cocaine-0.4.2/lib" />
@@ -2638,6 +2648,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/platform-api-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="poltergeist (v1.12.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/poltergeist-1.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/poltergeist-1.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="porth (v0.0.2@13d674, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/porth-13d6742a731f/lib" />
@@ -4134,6 +4152,24 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/websocket-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-driver (v0.6.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/websocket-driver-0.6.4/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/websocket-driver-0.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/websocket-driver-0.6.4/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/websocket-driver-0.6.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-extensions (v0.1.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/websocket-extensions-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/websocket-extensions-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="with_advisory_lock (v3.0.0, ruby-2.3.1-p112) [gem]">
