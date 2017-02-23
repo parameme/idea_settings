@@ -4092,6 +4092,48 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/jsmin-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.6, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.6, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json-1.8.6/diagrams" />
+      </SOURCES>
+    </library>
     <library name="json_pure (v1.8.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/json_pure-1.8.3/ext" />
@@ -4182,6 +4224,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.14.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.14.1/config" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.14.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="kaminari (v0.17.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="kaminari (v0.17.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/kaminari-0.17.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="kgio (v2.9.3, ruby-2.3.1-p112) [gem]">
@@ -5798,6 +5868,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.4/contrib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.4/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.5, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.5, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/example" />
       </SOURCES>
     </library>
     <library name="rack-canonical-host (v0.2.2, ruby-2.3.1-p112) [gem]">
@@ -7954,6 +8052,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.5/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.6, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.6, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/thread_safe-0.3.6/yard-template" />
       </SOURCES>
     </library>
     <library name="tilt (v1.4.1, ruby-2.3.1-p112) [gem]">
