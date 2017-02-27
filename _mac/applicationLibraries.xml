@@ -1154,6 +1154,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coderay-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coercible (v1.0.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/coercible-1.0.0/lib" />
@@ -1696,6 +1716,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/delorean-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dentaku (v2.0.8, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/dentaku-2.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/dentaku-2.0.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="dentaku (v2.0.8, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/dentaku-2.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/dentaku-2.0.8/lib" />
       </SOURCES>
     </library>
     <library name="descendants_tracker (v0.0.4, ruby-2.3.1-p112) [gem]">
@@ -5816,6 +5852,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pry-0.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="pry (v0.10.3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pry-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pry-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pry-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pry-0.10.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.3, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pry-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pry-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pry-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pry-0.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-nav (v0.2.4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pry-nav-0.2.4/lib" />
@@ -6884,6 +6940,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.4.3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.4.3, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.4.4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rspec-core-3.4.4/exe" />
@@ -7218,6 +7294,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.11.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.11.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-ole (v1.2.12, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-ole (v1.2.12, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.7.1, ruby-2.3.1-p112) [gem]">
@@ -7750,6 +7846,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.0.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="spreadsheet (v1.1.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="spreadsheet (v1.1.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="spring (v1.7.2, ruby-2.3.1-p112) [gem]">
