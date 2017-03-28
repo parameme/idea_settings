@@ -6884,6 +6884,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/roo-1.13.2/website" />
       </SOURCES>
     </library>
+    <library name="roo (v2.7.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/roo-2.7.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
+    <library name="roo (v2.7.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/roo-2.7.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
     <library name="roodi (v3.3.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/roodi-3.3.1/bin" />
@@ -7368,6 +7388,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-ole (v1.2.12.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-ole (v1.2.12.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-ole-1.2.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-progressbar (v1.7.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-progressbar-1.7.1/lib" />
@@ -7530,6 +7570,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.1.7/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.1.7/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.2.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.2.1/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.2.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
     <library name="run_it_back (v0.0.2, ruby-2.3.1-p112) [gem]">
@@ -7918,6 +7978,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="spreadsheet (v1.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="spreadsheet (v1.1.4, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/spreadsheet-1.1.4/lib" />
       </SOURCES>
     </library>
     <library name="spring (v1.7.2, ruby-2.3.1-p112) [gem]">
