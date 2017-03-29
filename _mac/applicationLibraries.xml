@@ -3138,6 +3138,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/parser-2.3.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.4.0.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.4.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="path_expander (v1.0.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/path_expander-1.0.0/lib" />
@@ -3276,6 +3286,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/powerpack-0.0.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="powerpack (v0.1.1, ruby-2.4.0-p0) [gem]">
@@ -4144,6 +4162,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.42.0/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.48.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.0/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta2/bin" />
@@ -4228,6 +4260,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/ruby-progressbar-1.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.1, ruby-2.4.0-p0) [gem]">
@@ -4898,6 +4938,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/unicode-display_width-1.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/unicode-display_width-1.1.0/data" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.1.3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.1.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.1.3/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.1.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.1.3/data" />
       </SOURCES>
     </library>
     <library name="unicorn (v4.6.2, ruby-2.4.0-p0) [gem]">
