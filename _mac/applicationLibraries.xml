@@ -1532,6 +1532,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/crack-0.4.2/script" />
       </SOURCES>
     </library>
+    <library name="creek (v1.1.2@5bc075, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/creek-5bc075f61bc0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/creek-5bc075f61bc0/lib" />
+      </SOURCES>
+    </library>
+    <library name="creek (v1.1.2@5bc075, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/creek-5bc075f61bc0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/creek-5bc075f61bc0/lib" />
+      </SOURCES>
+    </library>
     <library name="css_parser (v1.4.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/css_parser-1.4.1/lib" />
@@ -3544,6 +3560,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.13.0/features" />
       </SOURCES>
     </library>
+    <library name="httparty (v0.14.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/script" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/website" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/script" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/website" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/features" />
+      </SOURCES>
+    </library>
+    <library name="httparty (v0.14.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/script" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/website" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/script" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/website" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/httparty-0.14.0/features" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.7.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/i18n-0.7.0/lib" />
@@ -5018,6 +5066,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/multi_xml-0.5.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_xml (v0.6.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/multi_xml-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/multi_xml-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_xml (v0.6.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/multi_xml-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/multi_xml-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="nakayoshi_fork (v0.0.3, ruby-2.3.1-p112) [gem]">
@@ -9082,6 +9146,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/wkhtmltopdf-binary-0ee7dd80a66d/bin" />
+      </SOURCES>
+    </library>
+    <library name="xlsxtream (v0.2.0@45ca96, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/xlsxtream-45ca96078380/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/xlsxtream-45ca96078380/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/xlsxtream-45ca96078380/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/xlsxtream-45ca96078380/lib" />
+      </SOURCES>
+    </library>
+    <library name="xlsxtream (v0.2.0@45ca96, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/xlsxtream-45ca96078380/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/xlsxtream-45ca96078380/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/xlsxtream-45ca96078380/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/xlsxtream-45ca96078380/lib" />
       </SOURCES>
     </library>
     <library name="xml-simple (v1.1.5, ruby-2.3.1-p112) [gem]">
