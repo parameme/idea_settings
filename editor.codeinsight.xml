@@ -1,7 +1,5 @@
 <application>
   <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_METHODS" value="true" />
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
@@ -12,15 +10,12 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseArrayLiterals" value="true" />
-    <option name="collapseObjectLiterals" value="true" />
-    <option name="collapseXmlLiterals" value="true" />
-    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
-    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
-    <option name="COLLAPSE_XML_LITERALS" value="true" />
+  <component name="RubyI18nFoldingSettings">
+    <option name="collapseI18nMessages" value="false" />
+    <option name="COLLAPSE_I18N_MESSAGES" value="false" />
   </component>
   <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_XML_TAGS" value="true" />
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
   </component>
 </application>
