@@ -1634,6 +1634,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.0/gems/crack-0.4.3/script" />
       </SOURCES>
     </library>
+    <library name="creek (v1.1.2@4534c5, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/creek-4534c51f3d62/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/creek-4534c51f3d62/lib" />
+      </SOURCES>
+    </library>
     <library name="creek (v1.1.2@5bc075, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/creek-5bc075f61bc0/lib" />
