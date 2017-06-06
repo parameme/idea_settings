@@ -4702,6 +4702,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/inherited_resources-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="intellij-coffee-script-debugger (v0.0.1@277ae7, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/intellij-coffee-script-debugger-277ae723a565/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/intellij-coffee-script-debugger-277ae723a565/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/intellij-coffee-script-debugger-277ae723a565/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/intellij-coffee-script-debugger-277ae723a565/lib" />
+      </SOURCES>
+    </library>
+    <library name="intellij-coffee-script-debugger (v0.0.1@277ae7, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/intellij-coffee-script-debugger-277ae723a565/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/intellij-coffee-script-debugger-277ae723a565/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/intellij-coffee-script-debugger-277ae723a565/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/intellij-coffee-script-debugger-277ae723a565/lib" />
+      </SOURCES>
+    </library>
     <library name="interaction (v0.0.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/interaction-0.0.2/lib" />
