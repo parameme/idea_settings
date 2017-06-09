@@ -13,10 +13,11 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.rb</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
