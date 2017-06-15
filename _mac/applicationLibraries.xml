@@ -2174,6 +2174,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.0.2/sample" />
       </SOURCES>
     </library>
+    <library name="curses (v1.2.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/sample" />
+      </SOURCES>
+    </library>
+    <library name="curses (v1.2.2, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/curses-1.2.2/sample" />
+      </SOURCES>
+    </library>
     <library name="dalli (v2.6.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/dalli-2.6.0/lib" />
@@ -6132,6 +6156,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/minitest-5.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="mixlib-cli (v1.7.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/mixlib-cli-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/mixlib-cli-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mixlib-cli (v1.7.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/mixlib-cli-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/mixlib-cli-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="moneta (v0.8.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/moneta-0.8.0/lib" />
@@ -7000,6 +7040,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg-0.18.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg-0.18.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg-0.18.2/sample" />
+      </SOURCES>
+    </library>
+    <library name="pg_query (v0.11.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg_query-0.11.4/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg_query-0.11.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg_query-0.11.4/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg_query-0.11.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="pg_query (v0.11.4, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg_query-0.11.4/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg_query-0.11.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg_query-0.11.4/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/pg_query-0.11.4/lib" />
       </SOURCES>
     </library>
     <library name="phantomjs (v1.9.7.1, ruby-2.3.1-p112) [gem]">
