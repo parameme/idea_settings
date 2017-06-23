@@ -2812,6 +2812,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/enops-ec52db13c985/lib" />
       </SOURCES>
     </library>
+    <library name="enops (v0.1.0@f9fa3c, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/enops-f9fa3c996d89/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/enops-f9fa3c996d89/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/enops-f9fa3c996d89/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/enops-f9fa3c996d89/lib" />
+      </SOURCES>
+    </library>
+    <library name="enops (v0.1.0@f9fa3c, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/enops-f9fa3c996d89/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/enops-f9fa3c996d89/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/enops-f9fa3c996d89/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/bundler/gems/enops-f9fa3c996d89/lib" />
+      </SOURCES>
+    </library>
     <library name="enumerize (v0.11.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/enumerize-0.11.0/lib" />
