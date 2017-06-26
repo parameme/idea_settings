@@ -4,8 +4,8 @@
     <general />
     <debuggers>
       <debugger id="javascript">
-        <configuration captureAsyncStackTraces="false">
-          <custom-object-presentation enabled="true" />
+        <configuration>
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
