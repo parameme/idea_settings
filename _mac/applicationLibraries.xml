@@ -4378,6 +4378,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/haml_lint-0.26.0/config" />
       </SOURCES>
     </library>
+    <library name="haml_lint (v0.26.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/haml_lint-0.26.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/haml_lint-0.26.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/haml_lint-0.26.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/haml_lint-0.26.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/haml_lint-0.26.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/haml_lint-0.26.0/config" />
+      </SOURCES>
+    </library>
     <library name="has_scope (v0.6.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/has_scope-0.6.0/lib" />
@@ -9143,6 +9155,24 @@
       </SOURCES>
     </library>
     <library name="rubocop (v0.28.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/logo" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/relnotes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/logo" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/relnotes" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.28.0, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rubocop-0.28.0/lib" />
