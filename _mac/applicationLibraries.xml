@@ -7734,6 +7734,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.5/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.8, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.8, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-1.6.8/example" />
+      </SOURCES>
+    </library>
     <library name="rack-canonical-host (v0.2.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/rack-canonical-host-0.2.2/lib" />
