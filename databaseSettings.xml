@@ -1,7 +1,8 @@
 <application>
-  <component name="DatabaseSettings">
-    <option name="execute-inside-option" value="5" />
-    <option name="execute-outside-option" value="3" />
+  <component name="DatabaseSettings" version="2">
+    <option name="reuse-result-tab" value="false" />
+    <option name="execute-outside-option" value="2" />
+    <option name="execute-selection-option" value="3" />
     <text-mode in-scripts="true" in-literals="true">
       <parameter-patterns>
         <parameter-pattern value="?\d+" />
@@ -21,7 +22,7 @@
       </parameter-patterns>
     </text-mode>
     <csv-formats>
-      <csv-format name="Tab Separated Values (TSV)">
+      <csv-format name="Tab Separated Values (TSV)" id="708138bc-fe36-4bd5-8fae-8cff186310f7">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="&#9;" recordSeparator="&#10;" trimWhitespace="true">
             <quotation>
@@ -39,7 +40,7 @@
           </record-format>
         </header>
       </csv-format>
-      <csv-format name="Comma Separated Values (CSV)">
+      <csv-format name="Comma Separated Values (CSV)" id="10ce2bdc-6481-4413-a883-00412de63f6b">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true">
             <quotation>
@@ -57,7 +58,7 @@
           </record-format>
         </header>
       </csv-format>
-      <csv-format name="Pipe Separated Values (PSV)">
+      <csv-format name="Pipe Separated Values (PSV)" id="95290056-e01c-4d88-b5a0-81dd9cb82ec4">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;" trimWhitespace="true">
             <quotation>
