@@ -6742,7 +6742,6 @@
     </library>
     <library name="nokogiri (v1.6.7.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/nokogiri-1.6.7.2/lib" />
@@ -6751,7 +6750,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/nokogiri-1.6.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/nokogiri-1.6.7.2/lib" />
