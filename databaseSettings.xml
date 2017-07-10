@@ -1,6 +1,6 @@
 <application>
   <component name="DatabaseSettings" version="2">
-    <option name="reuse-result-tab" value="false" />
+    <option name="always-review-parameters" value="false" />
     <option name="execute-outside-option" value="2" />
     <option name="execute-selection-option" value="3" />
     <text-mode in-scripts="true" in-literals="true">
