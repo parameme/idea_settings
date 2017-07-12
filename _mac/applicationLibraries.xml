@@ -10040,6 +10040,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="smarter_csv (v1.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/smarter_csv-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/smarter_csv-1.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="smarter_csv (v1.1.4, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/smarter_csv-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/smarter_csv-1.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="sorcerer (v1.0.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.1/gems/sorcerer-1.0.2/lib" />
