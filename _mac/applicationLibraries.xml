@@ -76,6 +76,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activerecord_views-0.0.15/gemfiles" />
       </SOURCES>
     </library>
+    <library name="activerecord_views (v0.0.16, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activerecord_views-0.0.16/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activerecord_views-0.0.16/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activerecord_views-0.0.16/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activerecord_views-0.0.16/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v4.2.9, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activesupport-4.2.9/lib" />
