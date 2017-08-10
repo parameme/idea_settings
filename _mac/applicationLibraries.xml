@@ -734,6 +734,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/sexy_pg_constraints-245018154552/lib" />
       </SOURCES>
     </library>
+    <library name="enops (v0.1.0@197987, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-19798713122d/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-19798713122d/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-19798713122d/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-19798713122d/lib" />
+      </SOURCES>
+    </library>
     <library name="enops (v0.1.0@f9fa3c, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-f9fa3c996d89/bin" />
@@ -790,6 +800,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.49.0/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.49.0/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.49.0/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="excon (v0.58.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.58.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.58.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.58.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.58.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.58.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.58.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.58.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/excon-0.58.0/benchmarks" />
       </SOURCES>
     </library>
     <library name="execjs (v2.2.2, ruby-2.4.1-p111) [gem]">
@@ -1054,6 +1078,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/heroics-0.0.14/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/heroics-0.0.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="heroics (v0.0.23, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/heroics-0.0.23/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/heroics-0.0.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/heroics-0.0.23/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/heroics-0.0.23/lib" />
       </SOURCES>
     </library>
     <library name="heroku-deflater (v0.5.3, ruby-2.4.1-p111) [gem]">
@@ -2786,6 +2820,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thor-0.19.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thor-0.19.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.6@39fc4a, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/thread_safe-39fc4a490c7e/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/thread_safe-39fc4a490c7e/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/thread_safe-39fc4a490c7e/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/thread_safe-39fc4a490c7e/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/thread_safe-39fc4a490c7e/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/thread_safe-39fc4a490c7e/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/thread_safe-39fc4a490c7e/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/thread_safe-39fc4a490c7e/yard-template" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.6@ccfd11, ruby-2.4.1-p111) [gem]">
