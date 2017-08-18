@@ -190,12 +190,12 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="awesome_print (v1.6.1, ruby-2.4.1-p111) [gem]">
+    <library name="awesome_print (v1.8.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/awesome_print-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/awesome_print-1.8.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/awesome_print-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/awesome_print-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk (v1.33.0, ruby-2.4.1-p111) [gem]">
@@ -2906,6 +2906,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thor-0.19.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thor-0.19.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.6, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thread_safe-0.3.6/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/thread_safe-0.3.6/yard-template" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.6@39fc4a, ruby-2.4.1-p111) [gem]">
