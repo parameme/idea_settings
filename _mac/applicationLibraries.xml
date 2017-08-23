@@ -316,6 +316,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/task" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.15.4, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/task" />
+      </SOURCES>
+    </library>
     <library name="callsite (v0.0.11, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/callsite-0.0.11/lib" />
@@ -1684,6 +1700,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/listen-3.0.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/listen-3.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="logfmt_marshalling (v0.0.2, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/logfmt_marshalling-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/logfmt_marshalling-0.0.2/lib" />
       </SOURCES>
     </library>
     <library name="loofah (v2.0.3, ruby-2.4.1-p111) [gem]">
