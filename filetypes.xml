@@ -14,6 +14,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
+      <mapping ext="url" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="db_versions" type="Ruby" />
       <mapping pattern="app_syslog_drains" type="Ruby" />
