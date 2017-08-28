@@ -1508,12 +1508,10 @@
     </library>
     <library name="iobuffer (v1.1.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/iobuffer/1.1.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/iobuffer-1.1.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/iobuffer-1.1.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/iobuffer/1.1.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/iobuffer-1.1.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/iobuffer-1.1.2/lib" />
       </SOURCES>
