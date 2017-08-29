@@ -17,6 +17,7 @@
       <mapping ext="url" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="db_versions" type="Ruby" />
+      <mapping pattern="db_upgrade_prepare" type="Ruby" />
       <mapping pattern="app_syslog_drains" type="Ruby" />
       <mapping pattern="sql" type="SQL" />
       <mapping pattern="fragments" type="SQL" />
