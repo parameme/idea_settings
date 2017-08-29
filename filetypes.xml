@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="db_upgrade_offline" type="Bash" />
       <mapping ext="markdown" type="Markdown" />
       <mapping pattern="CostSelectorValue" type="PLAIN_TEXT" />
       <mapping pattern=".rubocop" type="PLAIN_TEXT" />
