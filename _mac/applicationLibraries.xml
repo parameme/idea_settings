@@ -2760,6 +2760,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/ruby_parser-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rubygems-update (v2.6.13, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubygems-update-2.6.13/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubygems-update-2.6.13/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubygems-update-2.6.13/util" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubygems-update-2.6.13/bundler" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubygems-update-2.6.13/hide_lib_for_update" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubygems-update-2.6.13/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubygems-update-2.6.13/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubygems-update-2.6.13/util" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubygems-update-2.6.13/bundler" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubygems-update-2.6.13/hide_lib_for_update" />
+      </SOURCES>
+    </library>
     <library name="rubyzip (v1.2.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rubyzip-1.2.1/lib" />
