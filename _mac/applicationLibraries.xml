@@ -3892,6 +3892,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/pdfkit-0.5.4/lib" />
       </SOURCES>
     </library>
+    <library name="pdfkit (v0.8.2@13f7f3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/pdfkit-13f7f3ddbf99/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/pdfkit-13f7f3ddbf99/lib" />
+      </SOURCES>
+    </library>
+    <library name="pdfkit (v0.8.2@13f7f3, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/pdfkit-13f7f3ddbf99/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/pdfkit-13f7f3ddbf99/lib" />
+      </SOURCES>
+    </library>
     <library name="pg (v0.18.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/pg-0.18.2/ext" />
