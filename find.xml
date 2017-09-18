@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="File '.../db/migrate/20170918041313_create_extension_invalidations.rb [envision]'" />
+    <option name="defaultScopeName" value="File '.../db/migrate/20170918041313_create_extension_invalidations.rb [envision]'" />
+    <option name="SEARCH_SCOPE" value="File '.../db/migrate/20170918041313_create_extension_invalidations.rb [envision]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
