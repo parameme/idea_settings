@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../db/migrate/20170918041313_create_extension_invalidations.rb [envision]'" />
     <option name="defaultScopeName" value="File '.../db/migrate/20170918041313_create_extension_invalidations.rb [envision]'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../db/migrate/20170918041313_create_extension_invalidations.rb [envision]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
