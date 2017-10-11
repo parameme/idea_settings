@@ -30,7 +30,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Run spec 'custom_amount_value_spec': envision'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run spec 'grouped_progress_summary_sql_spec': envision'">
