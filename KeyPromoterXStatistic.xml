@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Run spec 'grouped_progress_summary_sql_spec': envision'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Run spec 'grouped_progress_summary_sql_spec': envision'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
