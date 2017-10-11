@@ -17,12 +17,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="RSpec 'let'">
+        <Item>
+          <IdeaActionID>rspec.LetIntroduce</IdeaActionID>
+          <ShortCut>'⌥⇧⌘R' or '⇧⌘L'</ShortCut>
+          <Description>RSpec 'let'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Run spec 'custom_amount_value_spec': envision'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Run spec 'custom_amount_value_spec': envision'</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run spec 'grouped_progress_summary_sql_spec': envision'">
