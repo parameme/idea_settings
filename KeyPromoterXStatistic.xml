@@ -46,7 +46,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'GroupedProgressSummarySql custom_amount_values stub sql returns same columns and types as CustomAmountValue view: envision'</Description>
-          <Count>12</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GroupedProgressSummarySql custom_amount_values stub sql: envision'">
@@ -86,7 +86,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'GroupedProgressSumma...'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run spec 'grouped_pr...'">
