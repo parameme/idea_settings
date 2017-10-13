@@ -1040,6 +1040,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/colored-1.2/lib" />
       </SOURCES>
     </library>
+    <library name="combine_pdf (v1.0.7, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/combine_pdf-1.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/combine_pdf-1.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="combine_pdf (v1.0.7, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/combine_pdf-1.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/combine_pdf-1.0.7/lib" />
+      </SOURCES>
+    </library>
     <library name="committee (v1.9.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/committee-1.9.1/bin" />
