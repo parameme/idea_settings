@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ReportWidgets::GroupedProgressSummaryHelper invalid parameters invalid custom series role values: envision'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ReportWidgets::GroupedProgressSummaryHelper invalid parameters invalid custom series role values: envision'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Run spec 'custom_amount_value_spec': envision'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -87,6 +95,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'GroupedProgressSumma...'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ReportWidgets::Group...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ReportWidgets::Group...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run spec 'grouped_pr...'">
