@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ActivityProgressSeries caption_data: envision'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ActivityProgressSeries caption_data: envision'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'GroupedProgressSummarySql custom_amount_values stub sql returns same columns and types as CustomAmountValue view: envision'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -126,7 +134,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ActivityProgressSeri...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'GroupedProgressSumma...'">
