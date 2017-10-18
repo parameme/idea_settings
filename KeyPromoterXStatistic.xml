@@ -137,6 +137,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Run spec 'chart_helper_spec': envision'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Run spec 'chart_helper_spec': envision'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Run spec 'custom_amount_value_spec': envision'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -191,6 +199,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Run spec 'activity_p...'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Run spec 'chart_help...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Run spec 'chart_help...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run spec 'grouped_pr...'">
