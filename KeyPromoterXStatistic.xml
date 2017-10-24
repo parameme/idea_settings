@@ -161,6 +161,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ActivityProgressSeries custom amounts bound as planned, earned and actual appropriately includes filtered custom amounts series when requested: envision'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ActivityProgressSeries custom amounts bound as planned, earned and actual appropriately includes filtered custom amounts series when requested: envision'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ChartRefresher#perform!: envision'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -246,7 +254,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ActivityProgressSeri...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ChartRefresher#perfo...'">
