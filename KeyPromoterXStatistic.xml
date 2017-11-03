@@ -249,6 +249,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ReportWidgets::LabourSummaryHelper with resource usage data returns headcounts and total hours: envision'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ReportWidgets::LabourSummaryHelper with resource usage data returns headcounts and total hours: envision'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Run spec 'activity_progress_series_spec': envision'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -279,6 +287,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Run spec 'grouped_progress_summary_sql_spec': envision'</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Run spec 'labour_summary_helper_spec': envision'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Run spec 'labour_summary_helper_spec': envision'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run spec 'template_migrator_spec': envision'">
@@ -374,7 +390,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ReportWidgets::Labou...'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ReportWidgets::LabourSummaryHelper with ...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ReportWidgets::LabourSummaryHelper with ...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run spec 'activity_p...'">
@@ -422,7 +446,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Run spec 'labour_sum...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run spec 'labour_summary_helper_spec': e...'">
@@ -430,7 +454,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Run spec 'labour_summary_helper_spec': e...'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run spec 'progress_c...'">
