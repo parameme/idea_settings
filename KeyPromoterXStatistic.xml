@@ -102,7 +102,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Maximized">
@@ -110,7 +110,7 @@
           <IdeaActionID>Console.TableResult.EditValueMaximized</IdeaActionID>
           <ShortCut>'⇧⏎' or '⌥⇧⏎'</ShortCut>
           <Description>Edit Maximized</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -142,7 +142,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
