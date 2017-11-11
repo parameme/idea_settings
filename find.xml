@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -17,7 +18,6 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>r</mask>
-      <mask>*.rb</mask>
       <mask>s</mask>
       <mask>sq</mask>
       <mask>sql</mask>
@@ -28,6 +28,7 @@
       <mask>*.hal</mask>
       <mask>*.hamll</mask>
       <mask>*.haml</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
