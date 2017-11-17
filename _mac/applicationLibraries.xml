@@ -352,54 +352,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bullet-4.14.7/lib" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.15.2, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.2/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.2/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.2/man" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.2/task" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.2/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.2/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.2/man" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.2/task" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.15.3, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/man" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/task" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/man" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/task" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.3/bin" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.15.4, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/man" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/task" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/man" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.15.4/task" />
-      </SOURCES>
-    </library>
     <library name="callsite (v0.0.11, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/callsite-0.0.11/lib" />
