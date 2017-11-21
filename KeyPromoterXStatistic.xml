@@ -662,7 +662,7 @@
           <IdeaActionID>org.jetbrains.plugins.ruby.rails.actions.generators.GeneratorsPopupAction</IdeaActionID>
           <ShortCut>'⌥⌘G'</ShortCut>
           <Description>Run Rails Generator...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
