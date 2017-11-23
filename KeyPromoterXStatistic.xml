@@ -134,7 +134,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -687,6 +687,14 @@
           <ShortCut>'⌥⌘G'</ShortCut>
           <Description>Run Rails Generator...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Safe Delete...">
+        <Item>
+          <IdeaActionID>SafeDelete</IdeaActionID>
+          <ShortCut>'⌘⌦'</ShortCut>
+          <Description>Safe Delete...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
