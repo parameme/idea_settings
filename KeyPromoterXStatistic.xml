@@ -129,6 +129,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Disconnect">
         <Item>
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
