@@ -321,6 +321,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Metrics::ActivityCalculations during activity\'s work span (progress_quantity): envision'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Metrics::ActivityCalculations during activity\'s work span (progress_quantity): envision'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Metrics::ActivityCalculations further after the activity\'s finish date: envision'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Metrics::ActivityCalculations further after the activity\'s finish date: envision'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ReportWidgets::GroupedProgressSummaryHelper invalid parameters invalid custom series role values: envision'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -511,6 +527,22 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'GroupedProgressSumma...'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Metrics::ActivityCal...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Metrics::ActivityCal...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Metrics::ActivityCalculations further af...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Metrics::ActivityCalculations further af...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ReportWidgets::Group...'">
