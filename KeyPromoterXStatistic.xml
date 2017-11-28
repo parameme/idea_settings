@@ -334,7 +334,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Metrics::ActivityCalculations further after the activity\'s finish date: envision'</Description>
-          <Count>15</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ReportWidgets::GroupedProgressSummaryHelper invalid parameters invalid custom series role values: envision'">
@@ -542,7 +542,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Metrics::ActivityCalculations further af...'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ReportWidgets::Group...'">
