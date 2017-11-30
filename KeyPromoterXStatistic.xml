@@ -449,6 +449,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'backup_urls'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'backup_urls'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'productivity report creator generates a quantity progress report: envision'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -737,6 +745,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'backup_urls'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'backup_urls'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'productivity report ...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -855,6 +871,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Run spec 'work_references_controller_spec': envision'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'backup_urls'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'backup_urls'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'productivity report creator generates a quantity progress report: envision'">
