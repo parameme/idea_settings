@@ -206,7 +206,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>27</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
