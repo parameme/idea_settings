@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.haml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -21,13 +22,16 @@
       <mask>sq</mask>
       <mask>sql</mask>
       <mask>*.sql</mask>
-      <mask>*.html</mask>
       <mask>*.htl</mask>
       <mask>*.hl</mask>
       <mask>*.hal</mask>
       <mask>*.hamll</mask>
-      <mask>*.haml</mask>
       <mask>*.rb</mask>
+      <mask>*.html</mask>
+      <mask>*.h</mask>
+      <mask>*.ha</mask>
+      <mask>*.ham</mask>
+      <mask>*.haml</mask>
     </recentFileMasks>
   </component>
 </application>
