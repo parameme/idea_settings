@@ -3084,6 +3084,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/creek-911816f2fa9a/lib" />
       </SOURCES>
     </library>
+    <library name="creek (v2.1@2ac998, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/creek-2ac9985b2154/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/creek-2ac9985b2154/lib" />
+      </SOURCES>
+    </library>
     <library name="css_parser (v1.4.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/css_parser-1.4.1/lib" />
