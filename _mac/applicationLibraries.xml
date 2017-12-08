@@ -3464,6 +3464,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/docile-1.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="dracula (v0.6.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/dracula-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/dracula-0.6.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/dracula-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/dracula-0.6.0/bin" />
+      </SOURCES>
+    </library>
     <library name="dynamic_form (v1.1.4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/dynamic_form-1.1.4/lib" />
@@ -5416,6 +5426,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/multi_xml-0.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="multipart-post (v2.0.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="nakayoshi_fork (v0.0.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nakayoshi_fork-0.0.3/lib" />
@@ -5968,6 +5986,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/platform-api-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pmap (v1.1.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/pmap-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/pmap-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="poltergeist (v1.12.0, ruby-2.3.1-p112) [gem]">
@@ -7440,6 +7466,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/selenium-webdriver-2.46.2/lib" />
       </SOURCES>
     </library>
+    <library name="sem (v0.8.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sem-0.8.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sem-0.8.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sem-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sem-0.8.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sem-0.8.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sem-0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="semantic_logger (v4.1.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/semantic_logger-4.1.1/lib" />
@@ -7454,6 +7492,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/semantic_logger-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="semaphore_client (v3.0.2, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/semaphore_client-3.0.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/semaphore_client-3.0.2/scripts" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/semaphore_client-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/semaphore_client-3.0.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/semaphore_client-3.0.2/scripts" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/semaphore_client-3.0.2/lib" />
       </SOURCES>
     </library>
     <library name="sexp_processor (v4.6.0, ruby-2.3.1-p112) [gem]">
