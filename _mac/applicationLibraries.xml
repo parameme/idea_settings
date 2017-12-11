@@ -3822,6 +3822,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/factory_girl-4.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.13.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/faraday-0.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/faraday-0.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday_middleware (v0.12.2, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/faraday_middleware-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/faraday_middleware-0.12.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ffaker (v1.32.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/ffaker-1.32.1/scripts" />
