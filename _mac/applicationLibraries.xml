@@ -5374,6 +5374,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="mixlib-cli (v1.7.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mixlib-cli-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mixlib-cli-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="moneta (v0.8.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/moneta-0.8.0/script" />
@@ -7416,6 +7424,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/safe_yaml-1.0.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/safe_yaml-1.0.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="sandi_meter (v1.2.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sandi_meter-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sandi_meter-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sandi_meter-1.2.0/html" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sandi_meter-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sandi_meter-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sandi_meter-1.2.0/html" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.22, ruby-2.3.1-p112) [gem]">
