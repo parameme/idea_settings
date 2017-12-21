@@ -6894,6 +6894,24 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/redcarpet-3.3.3/bin" />
       </SOURCES>
     </library>
+    <library name="reek (v4.7.3, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/logo" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/logo" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/reek-4.7.3/features" />
+      </SOURCES>
+    </library>
     <library name="request_store (v1.0.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/request_store-1.0.5/lib" />
@@ -8164,6 +8182,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/tty-table-0.8.0/benchmarks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/tty-table-0.8.0/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/tty-table-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="tty-which (v0.3.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/tty-which-0.3.0/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/tty-which-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/tty-which-0.3.0/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/tty-which-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.3, ruby-2.3.1-p112) [gem]">
