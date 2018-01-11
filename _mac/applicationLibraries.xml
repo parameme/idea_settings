@@ -5380,6 +5380,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mini_portile2-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="mini_portile2 (v2.3.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mini_portile2-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mini_portile2-2.3.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mini_portile2-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mini_portile2-2.3.0/concourse" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.10.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
@@ -5644,6 +5654,24 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.7.2/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.1, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/patches" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/patches" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/suppressions" />
       </SOURCES>
     </library>
     <library name="oily_png (v1.1.0, ruby-2.3.1-p112) [gem]">
