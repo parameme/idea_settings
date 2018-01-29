@@ -1,10 +1,17 @@
 <application>
-  <component name="DatabaseSettings">
-    <option name="execute-inside-option" value="5" />
-    <option name="execute-outside-option" value="3" />
+  <component name="DatabaseSettings" version="2">
+    <option name="reuse-result-tab" value="false" />
+    <option name="always-review-parameters" value="false" />
+    <option name="execute-outside-option" value="2" />
+    <option name="execute-selection-option" value="3" />
+    <exec-options>
+      <exec-option new-tab="true" exec-outside="2" exec-selection="3" />
+      <exec-option />
+      <exec-option />
+    </exec-options>
     <text-mode in-scripts="true" in-literals="true">
       <parameter-patterns>
-        <parameter-pattern value="?\d+" />
+        <parameter-pattern value="\?(\d+)" />
         <parameter-pattern value=":(\w+)" scope="*,-PostgreSQL" predefined="true" />
         <parameter-pattern value="%\w+" scope="JAVA" predefined="true" />
         <parameter-pattern value="$\{[^$\{\}]*\}" />
@@ -17,11 +24,11 @@
         <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-scripts="false" in-literals="false" scope="*,-SQL,Oracle,OracleSqlPlus,PostgreSQL,PostgresPLSQL" predefined="true" />
         <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-scripts="false" in-literals="false" scope="*,-SQL,Oracle,OracleSqlPlus,PostgreSQL,PostgresPLSQL" predefined="true" />
         <parameter-pattern value="%\((\w+)\)s" in-scripts="false" in-literals="false" scope="Python" predefined="true" />
-        <parameter-pattern value="&lt;%=?(.*)%&gt;" />
+        <parameter-pattern value="&lt;%=?.*%&gt;" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
-      <csv-format name="Tab Separated Values (TSV)">
+      <csv-format name="Tab Separated Values (TSV)" id="708138bc-fe36-4bd5-8fae-8cff186310f7">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="&#9;" recordSeparator="&#10;" trimWhitespace="true">
             <quotation>
@@ -39,7 +46,7 @@
           </record-format>
         </header>
       </csv-format>
-      <csv-format name="Comma Separated Values (CSV)">
+      <csv-format name="Comma Separated Values (CSV)" id="10ce2bdc-6481-4413-a883-00412de63f6b">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true">
             <quotation>
@@ -49,7 +56,7 @@
           </record-format>
         </data>
         <header>
-          <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true">
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true">
             <quotation>
               <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
               <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
@@ -57,7 +64,7 @@
           </record-format>
         </header>
       </csv-format>
-      <csv-format name="Pipe Separated Values (PSV)">
+      <csv-format name="Pipe Separated Values (PSV)" id="95290056-e01c-4d88-b5a0-81dd9cb82ec4">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;" trimWhitespace="true">
             <quotation>

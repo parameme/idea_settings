@@ -2,19 +2,26 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="markdown" type="Markdown" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern=".rubocop" type="PLAIN_TEXT" />
+      <mapping pattern="fails" type="PLAIN_TEXT" />
       <mapping pattern=".postgresql-version" type="PLAIN_TEXT" />
       <mapping pattern="CostSelectorValue" type="PLAIN_TEXT" />
       <mapping pattern="upgrade_db" type="PLAIN_TEXT" />
       <mapping pattern="postgres_copier" type="PLAIN_TEXT" />
-      <mapping pattern="fails" type="PLAIN_TEXT" />
       <mapping ext="split2" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
+      <mapping ext="url" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping pattern="retrieve_current_encopy_backup" type="Ruby" />
+      <mapping pattern="db_generate_foreign_schema_sql" type="Ruby" />
+      <mapping pattern="db_upgrade_prepare" type="Ruby" />
+      <mapping pattern="scalyr_log_forwarder" type="Ruby" />
       <mapping pattern="db_versions" type="Ruby" />
+      <mapping pattern="app_syslog_drains" type="Ruby" />
+      <mapping pattern="metrics" type="Ruby" />
+      <mapping pattern="db_upgrade_offline" type="Ruby" />
       <mapping pattern="fragments" type="SQL" />
       <mapping pattern="sql" type="SQL" />
     </extensionMap>
