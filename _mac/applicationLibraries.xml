@@ -4516,6 +4516,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.14.0/website" />
       </SOURCES>
     </library>
+    <library name="httparty (v0.16.0, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.16.0/script" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.16.0/features" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.16.0/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.16.0/script" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.16.0/features" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/httparty-0.16.0/website" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.8.6, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/i18n-0.8.6/lib" />
