@@ -268,6 +268,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activerecord_views-0.0.16/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord_views (v0.0.17, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activerecord_views-0.0.17/gemfiles" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activerecord_views-0.0.17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activerecord_views-0.0.17/gemfiles" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activerecord_views-0.0.17/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v4.2.10, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/activesupport-4.2.10/lib" />
@@ -5692,6 +5702,7 @@
     </library>
     <library name="nokogiri (v1.8.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/ext" />
@@ -5700,6 +5711,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/ext" />
