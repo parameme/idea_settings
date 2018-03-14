@@ -10,6 +10,7 @@
       <mapping pattern="upgrade_db" type="PLAIN_TEXT" />
       <mapping pattern="postgres_copier" type="PLAIN_TEXT" />
       <mapping ext="split2" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="url" type="PLAIN_TEXT" />
