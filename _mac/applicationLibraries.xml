@@ -5802,6 +5802,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-19798713122d/bin" />
       </SOURCES>
     </library>
+    <library name="enops (v0.1.0@4cd7b6, ruby-2.4.1-p111) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-4cd7b6c9bba4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-4cd7b6c9bba4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-4cd7b6c9bba4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-4cd7b6c9bba4/bin" />
+      </SOURCES>
+    </library>
+    <library name="enops (v0.1.0@4cd7b6, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-4cd7b6c9bba4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-4cd7b6c9bba4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-4cd7b6c9bba4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-4cd7b6c9bba4/bin" />
+      </SOURCES>
+    </library>
     <library name="enops (v0.1.0@871b29, ruby-2.4.1-p111) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/enops-871b2916b562/lib" />
