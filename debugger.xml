@@ -1,11 +1,19 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="ruby">
+        <configuration>
+          <option name="timeLimit" value="1000" />
+          <option name="verboseOutput" value="true" />
         </configuration>
       </debugger>
     </debuggers>
