@@ -10,12 +10,6 @@
           <custom-object-presentation />
         </configuration>
       </debugger>
-      <debugger id="ruby">
-        <configuration>
-          <option name="timeLimit" value="1000" />
-          <option name="verboseOutput" value="true" />
-        </configuration>
-      </debugger>
     </debuggers>
   </component>
 </application>
