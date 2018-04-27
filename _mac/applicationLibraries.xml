@@ -3692,11 +3692,9 @@
     </library>
     <library name="bcrypt (v3.1.9, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bcrypt-3.1.9/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bcrypt-3.1.9/lib" />
       </SOURCES>
     </library>
@@ -3758,11 +3756,9 @@
     </library>
     <library name="binding_of_caller (v0.7.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
     </library>
@@ -4886,12 +4882,10 @@
     </library>
     <library name="curb (v0.8.8, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/curb/0.8.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/curb-0.8.8/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/curb-0.8.8/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/curb/0.8.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/curb-0.8.8/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/curb-0.8.8/ext" />
       </SOURCES>
@@ -5058,11 +5052,9 @@
     </library>
     <library name="debug_inspector (v0.0.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
     </library>
@@ -6112,11 +6104,9 @@
     </library>
     <library name="ffi (v1.9.6, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/ffi-1.9.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/ffi-1.9.6/lib" />
       </SOURCES>
     </library>
@@ -7370,11 +7360,9 @@
     </library>
     <library name="iobuffer (v1.1.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/iobuffer/1.1.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/iobuffer-1.1.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/iobuffer/1.1.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/iobuffer-1.1.2/lib" />
       </SOURCES>
     </library>
@@ -7602,11 +7590,9 @@
     </library>
     <library name="json (v1.8.6, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/json-1.8.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/json-1.8.6/lib" />
       </SOURCES>
     </library>
@@ -7724,11 +7710,9 @@
     </library>
     <library name="kgio (v2.9.3, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.9.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/kgio-2.9.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.9.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/kgio-2.9.3/lib" />
       </SOURCES>
     </library>
@@ -8852,11 +8836,9 @@
     </library>
     <library name="nokogiri (v1.8.1, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.1/lib" />
       </SOURCES>
     </library>
@@ -8934,12 +8916,10 @@
     </library>
     <library name="oily_png (v1.1.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oily_png/1.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/oily_png-1.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/oily_png-1.1.0/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oily_png/1.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/oily_png-1.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/oily_png-1.1.0/ext" />
       </SOURCES>
@@ -9496,11 +9476,9 @@
     </library>
     <library name="pg (v0.18.4, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.18.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/pg-0.18.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.18.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/pg-0.18.4/lib" />
       </SOURCES>
     </library>
@@ -10676,11 +10654,9 @@
     </library>
     <library name="raindrops (v0.13.0, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.13.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/raindrops-0.13.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.13.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/raindrops-0.13.0/lib" />
       </SOURCES>
     </library>
@@ -10772,11 +10748,9 @@
     </library>
     <library name="rb-fsevent (v0.9.4, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rb-fsevent-0.9.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rb-fsevent-0.9.4/lib" />
       </SOURCES>
     </library>
@@ -10832,11 +10806,9 @@
     </library>
     <library name="rdiscount (v1.6.8, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rdiscount/1.6.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rdiscount-1.6.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rdiscount/1.6.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/rdiscount-1.6.8/lib" />
       </SOURCES>
     </library>
@@ -10896,11 +10868,9 @@
     </library>
     <library name="redcarpet (v3.3.3, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.3.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/redcarpet-3.3.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.3.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/redcarpet-3.3.3/lib" />
       </SOURCES>
     </library>
@@ -13274,11 +13244,9 @@
     </library>
     <library name="unicorn (v4.6.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/4.6.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/unicorn-4.6.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/4.6.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/unicorn-4.6.2/lib" />
       </SOURCES>
     </library>
@@ -13626,11 +13594,9 @@
     </library>
     <library name="websocket-driver (v0.6.4, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/websocket-driver-0.6.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/websocket-driver-0.6.4/lib" />
       </SOURCES>
     </library>
