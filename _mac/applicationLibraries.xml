@@ -8862,11 +8862,9 @@
     </library>
     <library name="nokogiri (v1.8.2, ruby-2.4.1-p111) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/nokogiri-1.8.2/lib" />
       </SOURCES>
     </library>
