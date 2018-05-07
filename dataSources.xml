@@ -1,7 +1,7 @@
 <application>
-  <component name="dataSourceStorage" format="xml">
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="Rails envision: development" uuid="e66b0686-aa4d-47eb-a41d-8ca87a713de0">
-      <driver-ref>postgresql</driver-ref>
+      <driver-ref>23970c41-f4be-4721-ab17-d8eab461fe87</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:envision_development</jdbc-url>
@@ -15,7 +15,7 @@
       </libraries>
     </data-source>
     <data-source source="LOCAL" name="Rails envision: test" uuid="1c03bf4c-2129-4149-b14d-cde44db222ee">
-      <driver-ref>postgresql</driver-ref>
+      <driver-ref>23970c41-f4be-4721-ab17-d8eab461fe87</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:envision_test</jdbc-url>
@@ -29,7 +29,7 @@
       </libraries>
     </data-source>
     <data-source source="LOCAL" name="Rails envision-support: development" uuid="67260c76-e551-45bb-bb35-df77f3f6bc07">
-      <driver-ref>postgresql</driver-ref>
+      <driver-ref>23970c41-f4be-4721-ab17-d8eab461fe87</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:envision_support_development</jdbc-url>
@@ -43,7 +43,7 @@
       </libraries>
     </data-source>
     <data-source source="LOCAL" name="Rails envision-support: test" uuid="86198c71-3e59-403e-9c53-e5dcfb16e7c6">
-      <driver-ref>postgresql</driver-ref>
+      <driver-ref>23970c41-f4be-4721-ab17-d8eab461fe87</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:envision_support_test</jdbc-url>
