@@ -9,6 +9,7 @@
       <mapping pattern="CostSelectorValue" type="PLAIN_TEXT" />
       <mapping pattern="upgrade_db" type="PLAIN_TEXT" />
       <mapping pattern="postgres_copier" type="PLAIN_TEXT" />
+      <mapping pattern="change_symbol" type="PLAIN_TEXT" />
       <mapping ext="split2" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
