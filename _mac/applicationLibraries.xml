@@ -13683,6 +13683,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sprockets-2.12.5/bin" />
       </excluded>
     </library>
+    <library name="sprockets (v2.12.5, ruby-2.4.1-p111) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-2.12.5/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-2.12.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-2.12.5/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-2.12.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-2.12.5/bin" />
+      </excluded>
+    </library>
     <library name="sprockets-rails (v3.0.0.beta1, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
