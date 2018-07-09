@@ -1877,25 +1877,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bullet-4.14.7/lib" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.16.1, chruby: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.16.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.16.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.16.1/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.16.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.16.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.16.1/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.16.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.16.1/man" />
-      </excluded>
-    </library>
     <library name="bundler (v1.16.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/bundler-1.16.1/man" />
@@ -2948,22 +2929,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/coffee-script-source-1.8.0/lib" />
       </SOURCES>
-    </library>
-    <library name="colored (v1.2, chruby: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/colored-1.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/colored-1.2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/colored-1.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/colored-1.2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/colored-1.2/test" />
-      </excluded>
     </library>
     <library name="colored (v1.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -6932,25 +6897,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/geokit-1.11.0/fixtures" />
       </SOURCES>
     </library>
-    <library name="git-up (v0.5.12, chruby: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/git-up-0.5.12/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/git-up-0.5.12/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/git-up-0.5.12/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/git-up-0.5.12/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/git-up-0.5.12/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/git-up-0.5.12/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/git-up-0.5.12/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/git-up-0.5.12/man" />
-      </excluded>
-    </library>
     <library name="git-up (v0.5.12, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/git-up-0.5.12/lib" />
@@ -7087,22 +7033,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/google_visualr-2.1.7/lib" />
       </SOURCES>
-    </library>
-    <library name="grit (v2.5.0, chruby: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/grit-2.5.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/grit-2.5.0/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/grit-2.5.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/grit-2.5.0/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/grit-2.5.0/examples" />
-      </excluded>
     </library>
     <library name="grit (v2.5.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -10150,25 +10080,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
-    <library name="mime-types (v1.25.1, chruby: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mime-types-1.25.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mime-types-1.25.1/docs" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mime-types-1.25.1/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mime-types-1.25.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mime-types-1.25.1/docs" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mime-types-1.25.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mime-types-1.25.1/docs" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mime-types-1.25.1/test" />
-      </excluded>
-    </library>
     <library name="mime-types (v1.25.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/mime-types-1.25.1/lib" />
@@ -12319,28 +12230,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.1/bundler/gems/porth-13d6742a731f/lib" />
       </SOURCES>
-    </library>
-    <library name="posix-spawn (v0.3.13, chruby: ruby-2.4.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/posix-spawn-0.3.13/test" />
-      </excluded>
     </library>
     <library name="posix-spawn (v0.3.13, ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -17962,15 +17851,15 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sprockets-2.12.4/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sprockets-2.12.4/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-2.12.4/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-2.12.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sprockets-2.12.4/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sprockets-2.12.4/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-2.12.4/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-2.12.4/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.1/gems/sprockets-2.12.4/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/sprockets-2.12.4/bin" />
       </excluded>
     </library>
     <library name="sprockets (v2.12.4, ruby-2.3.1-p112) [gem]">
