@@ -1,5 +1,5 @@
 <application>
-  <component name="dataSourceStorage" format="xml">
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="Rails envision: development" uuid="e66b0686-aa4d-47eb-a41d-8ca87a713de0">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
