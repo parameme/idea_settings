@@ -1,43 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.s</mask>
-      <mask>r</mask>
-      <mask>s</mask>
-      <mask>sq</mask>
-      <mask>sql</mask>
-      <mask>*.htl</mask>
-      <mask>*.hl</mask>
-      <mask>*.hal</mask>
-      <mask>*.hamll</mask>
-      <mask>*.rb</mask>
-      <mask>*.html</mask>
-      <mask>*.h</mask>
-      <mask>*.ha</mask>
-      <mask>*.ham</mask>
-      <mask>*.haml</mask>
-      <mask>*</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*.sql.erb\\</mask>
-      <mask>*.sql.erb\\\</mask>
-      <mask>*.sql.erb\</mask>
-      <mask>*.sql.erb</mask>
-      <mask>*.sql.er</mask>
-      <mask>*.sql.e</mask>
-      <mask>*.sql.</mask>
-      <mask>*.sql.*</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>
