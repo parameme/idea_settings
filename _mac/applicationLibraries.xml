@@ -3989,13 +3989,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.5.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.5.0/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.5.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.5.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.5.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.5.0/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.5.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.5.0/lib" />
@@ -8247,6 +8245,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.78.0/data" />
       </excluded>
     </library>
+    <library name="excon (v0.78.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.78.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.78.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.78.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.78.1/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.78.1/data" />
+      </excluded>
+    </library>
     <library name="execjs (v2.7.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10244,13 +10258,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/hiredis/0.6.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/hiredis-0.6.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/hiredis-0.6.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/hiredis-0.6.3/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/hiredis/0.6.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/hiredis-0.6.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/hiredis-0.6.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/hiredis-0.6.3/vendor" />
