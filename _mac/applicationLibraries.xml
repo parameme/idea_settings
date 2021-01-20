@@ -5086,6 +5086,44 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.7/exe" />
       </excluded>
     </library>
+    <library name="ci-queue (v0.20.8, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/exe" />
+      </excluded>
+    </library>
+    <library name="ci-queue (v0.20.8, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ci-queue-0.20.8/exe" />
+      </excluded>
+    </library>
     <library name="clamp (v1.3.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
