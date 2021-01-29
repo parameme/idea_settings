@@ -4704,6 +4704,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.34.0/spec" />
       </excluded>
     </library>
+    <library name="capybara (v3.35.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.35.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.35.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.35.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.35.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.35.1/spec" />
+      </excluded>
+    </library>
+    <library name="capybara (v3.35.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.35.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.35.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.35.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.35.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.35.1/spec" />
+      </excluded>
+    </library>
     <library name="capybara-chromedriver-logger (v0.2.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11151,7 +11183,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/http_parser.rb-0.6.0/spec" />
@@ -11159,7 +11190,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/http_parser.rb-0.6.0/spec" />
@@ -14439,7 +14469,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.4/lib" />
@@ -14447,7 +14476,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.4/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.4/lib" />
@@ -18935,6 +18963,38 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-1.8.2/spec" />
+      </excluded>
+    </library>
+    <library name="regexp_parser (v2.0.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/spec" />
+      </excluded>
+    </library>
+    <library name="regexp_parser (v2.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/spec" />
       </excluded>
     </library>
     <library name="request_store (v1.5.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
