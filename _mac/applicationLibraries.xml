@@ -14005,6 +14005,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/msgpack/1.4.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/spec" />
@@ -14012,6 +14013,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/msgpack/1.4.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/spec" />
