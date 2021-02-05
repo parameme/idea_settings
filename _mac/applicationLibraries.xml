@@ -3710,6 +3710,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bcrypt_pbkdf-1.0.1/test" />
       </excluded>
     </library>
+    <library name="benchmark-ips (v2.8.4, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-ips-2.8.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-ips-2.8.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-ips-2.8.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-ips-2.8.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-ips-2.8.4/test" />
+      </excluded>
+    </library>
+    <library name="benchmark-ips (v2.8.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-ips-2.8.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-ips-2.8.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-ips-2.8.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-ips-2.8.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-ips-2.8.4/test" />
+      </excluded>
+    </library>
     <library name="better_errors (v2.6.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
