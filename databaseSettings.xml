@@ -1,10 +1,11 @@
 <application>
-  <component name="DatabaseSettings" version="3">
+  <component name="DatabaseSettings" version="5">
+    <option name="reuse-result-tab" value="false" />
     <option name="always-review-parameters" value="false" />
     <option name="execute-outside-option" value="2" />
     <option name="execute-selection-option" value="3" />
     <exec-options>
-      <exec-option exec-outside="2" exec-selection="3" />
+      <exec-option new-tab="true" exec-outside="2" exec-selection="3" />
       <exec-option />
       <exec-option />
     </exec-options>
@@ -28,6 +29,16 @@
       </parameter-patterns>
     </text-mode>
     <csv-formats>
+      <csv-format name="Pipe-separated" id="Pipe-separated_id">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
       <csv-format name="Tab Separated Values (TSV)" id="708138bc-fe36-4bd5-8fae-8cff186310f7">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="&#9;" recordSeparator="&#10;" trimWhitespace="true">
