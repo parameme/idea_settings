@@ -198,6 +198,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actioncable-5.2.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actioncable-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actioncable-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actioncable (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actioncable-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actioncable-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -284,6 +306,28 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionmailer-5.2.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionmailer-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionmailer-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionmailer-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionmailer-5.2.4.5/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -374,6 +418,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionpack-5.2.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionpack-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionpack-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionpack-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionpack-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -460,6 +526,28 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionview-5.2.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionview-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionview-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionview-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionview-5.2.4.5/lib" />
       </SOURCES>
     </library>
     <library name="active_enum (v0.9.12@fdd891, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -610,6 +698,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activejob-5.2.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activejob-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activejob-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activejob-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activejob-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -696,6 +806,28 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activemodel-5.2.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activemodel-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activemodel-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activemodel-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activemodel-5.2.4.5/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -826,6 +958,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.4/examples" />
       </excluded>
     </library>
+    <library name="activerecord (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/examples" />
+      </excluded>
+    </library>
+    <library name="activerecord (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/examples" />
+      </excluded>
+    </library>
     <library name="activerecord_views (v0.0.20, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -948,6 +1112,48 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.4/config" />
       </excluded>
     </library>
+    <library name="activestorage (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/config" />
+      </excluded>
+    </library>
+    <library name="activestorage (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/config" />
+      </excluded>
+    </library>
     <library name="activesupport (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1034,6 +1240,28 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.4.5/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v6.0.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -17997,6 +18225,20 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="rails (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rails (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="rails-controller-testing (v1.0.4, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18283,6 +18525,38 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.4/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v5.2.4.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/exe" />
       </excluded>
     </library>
     <library name="rainbow (v3.0.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
