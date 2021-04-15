@@ -220,6 +220,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actioncable-5.2.4.5/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actioncable-5.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actioncable-5.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -328,6 +339,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionmailer-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionmailer-5.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionmailer-5.2.5/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -440,6 +462,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionpack-5.2.4.5/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionpack-5.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionpack-5.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -548,6 +581,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionview-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionview-5.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/actionview-5.2.5/lib" />
       </SOURCES>
     </library>
     <library name="active_enum (v0.9.12@fdd891, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -720,6 +764,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activejob-5.2.4.5/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activejob-5.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activejob-5.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -828,6 +883,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activemodel-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activemodel-5.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activemodel-5.2.5/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -988,6 +1054,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.4.5/examples" />
+      </excluded>
+    </library>
+    <library name="activerecord (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.5/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.5/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activerecord-5.2.5/examples" />
       </excluded>
     </library>
     <library name="activerecord_views (v0.0.20, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -1154,6 +1236,27 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.4.5/config" />
       </excluded>
     </library>
+    <library name="activestorage (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.5/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.5/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.5/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.5/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.5/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.5/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.5/db" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activestorage-5.2.5/config" />
+      </excluded>
+    </library>
     <library name="activesupport (v5.0.7.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1262,6 +1365,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.5/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v6.0.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -2094,6 +2208,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/awesome_print-1.8.0/spec" />
+      </excluded>
+    </library>
+    <library name="awesome_print (v1.9.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/awesome_print-1.9.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/awesome_print-1.9.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/awesome_print-1.9.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/awesome_print-1.9.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/awesome_print-1.9.2/spec" />
       </excluded>
     </library>
     <library name="aws-eventstream (v1.0.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -3822,6 +3952,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/axiom-types-0.1.1/config" />
       </excluded>
     </library>
+    <library name="backport (v1.1.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/backport-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/backport-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/backport-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/backport-1.1.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/backport-1.1.2/bin" />
+      </excluded>
+    </library>
     <library name="bcrypt (v3.1.13, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3865,11 +4011,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.16" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bcrypt-3.1.16/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bcrypt-3.1.16/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.16" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bcrypt-3.1.16/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bcrypt-3.1.16/spec" />
@@ -3934,6 +4082,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bcrypt_pbkdf-1.0.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bcrypt_pbkdf-1.0.1/test" />
+      </excluded>
+    </library>
+    <library name="benchmark (v0.1.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-0.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/benchmark-0.1.0/bin" />
       </excluded>
     </library>
     <library name="benchmark-ips (v2.8.4, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -4244,12 +4408,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/test" />
@@ -4481,11 +4647,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.6.0/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.6.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.6.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.6.0/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.6.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bootsnap-1.6.0/lib" />
@@ -4849,11 +5017,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/byebug/11.1.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/byebug-11.1.3/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/byebug-11.1.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/byebug-11.1.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/byebug/11.1.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/byebug-11.1.3/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/byebug-11.1.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/byebug-11.1.3/lib" />
@@ -6646,6 +6816,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/css_parser-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="css_parser (v1.9.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/css_parser-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/css_parser-1.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="csv (v1.0.0, ruby-2.5.0-p0) [gem]">
       <CLASSES />
       <SOURCES />
@@ -6966,11 +7147,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/test" />
@@ -9228,6 +9411,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.78.1/data" />
       </excluded>
     </library>
+    <library name="excon (v0.79.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.79.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.79.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.79.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.79.0/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/excon-0.79.0/data" />
+      </excluded>
+    </library>
     <library name="execjs (v2.7.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9538,12 +9737,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.13.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.13.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.13.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.13.1/.github" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.13.1/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.13.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.13.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.13.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.13.1/.github" />
@@ -9737,6 +9938,31 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-1.2.1/gemfiles" />
       </excluded>
     </library>
+    <library name="fog-aws (v3.10.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-aws-3.10.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="fog-core (v1.45.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9767,6 +9993,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-core-1.45.0/spec" />
+      </excluded>
+    </library>
+    <library name="fog-core (v2.2.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-core-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-core-2.2.3/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-core-2.2.3/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-core-2.2.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-core-2.2.3/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-core-2.2.3/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-core-2.2.3/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fog-core-2.2.3/.github" />
       </excluded>
     </library>
     <library name="fog-json (v1.2.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -11150,6 +11395,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/has_scope-0.7.2/test" />
       </excluded>
     </library>
+    <library name="has_scope (v0.8.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/has_scope-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/has_scope-0.8.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/has_scope-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/has_scope-0.8.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/has_scope-0.8.0/test" />
+      </excluded>
+    </library>
     <library name="hashdiff (v1.0.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12320,10 +12581,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
@@ -12352,11 +12615,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jemalloc/1.0.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jemalloc-1.0.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jemalloc-1.0.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jemalloc-1.0.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jemalloc/1.0.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jemalloc-1.0.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jemalloc-1.0.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jemalloc-1.0.1/lib" />
@@ -13007,6 +13272,47 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kgio-2.11.3/archive" />
       </excluded>
     </library>
+    <library name="kramdown (v2.3.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-2.3.1/test" />
+      </excluded>
+    </library>
+    <library name="kramdown-parser-gfm (v1.1.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-parser-gfm-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-parser-gfm-1.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-parser-gfm-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-parser-gfm-1.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/kramdown-parser-gfm-1.1.0/test" />
+      </excluded>
+    </library>
     <library name="launchy (v2.4.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13389,6 +13695,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/loofah-2.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.9.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/loofah-2.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/loofah-2.9.1/lib" />
+      </SOURCES>
+    </library>
     <library name="lumberjack (v1.1.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13507,6 +13824,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/marcel-0.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="marcel (v1.0.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/marcel-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/marcel-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="matrix (v0.1.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -13738,6 +14066,41 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.1009/types" />
       </excluded>
     </library>
+    <library name="mime-types-data (v3.2021.0225, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2021.0225/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2021.0225/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2021.0225/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2021.0225/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2021.0225/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2021.0225/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2021.0225/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2021.0225/types" />
+      </excluded>
+    </library>
+    <library name="mimemagic (v0.3.10, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mimemagic-0.3.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mimemagic-0.3.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mimemagic-0.3.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mimemagic-0.3.10/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mimemagic-0.3.10/ext" />
+      </excluded>
+    </library>
     <library name="mimemagic (v0.3.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13850,6 +14213,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.0.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.0.2/bench" />
+      </excluded>
+    </library>
+    <library name="mini_mime (v1.1.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/bench" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/bench" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/bench" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mini_mime-1.1.0/.github" />
       </excluded>
     </library>
     <library name="mini_portile2 (v2.4.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -14070,6 +14455,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/minitest-5.14.3/test" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.14.4, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/minitest-5.14.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/minitest-5.14.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/minitest-5.14.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/minitest-5.14.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/minitest-5.14.4/test" />
       </excluded>
     </library>
     <library name="moneta (v1.2.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -14303,6 +14704,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/msgpack/1.4.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/spec" />
@@ -14310,6 +14712,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/msgpack/1.4.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/msgpack-1.4.2/spec" />
@@ -14928,6 +15331,36 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.4/examples" />
       </excluded>
     </library>
+    <library name="nio4r (v2.5.7, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.7" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.7" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.5.7/examples" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.10.10, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15141,6 +15574,27 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.11.1-x86_64-darwin/ext" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.11.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.11.3" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.11.3" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.11.3-x86_64-darwin/ext" />
+      </excluded>
+    </library>
     <library name="notiffany (v0.1.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15173,17 +15627,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/notiffany-0.1.3/images" />
       </excluded>
     </library>
+    <library name="octokit (v4.20.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/octokit-4.20.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/octokit-4.20.0/lib" />
+      </SOURCES>
+    </library>
     <library name="oily_png (v1.2.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/oily_png/1.2.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/oily_png-1.2.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/oily_png-1.2.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/oily_png-1.2.1/spec" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/oily_png-1.2.1/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/oily_png/1.2.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/oily_png-1.2.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/oily_png-1.2.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/oily_png-1.2.1/spec" />
@@ -16312,11 +16779,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/pg-1.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/pg-1.2.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/pg-1.2.3/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/pg-1.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/pg-1.2.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/pg-1.2.3/spec" />
@@ -16612,11 +17081,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/process_shared/0.2.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/process_shared-0.2.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/process_shared-0.2.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/process_shared-0.2.1/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/process_shared/0.2.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/process_shared-0.2.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/process_shared-0.2.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/process_shared-0.2.1/spec" />
@@ -17085,6 +17556,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/3.12.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/puma-3.12.6/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/puma-3.12.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/puma-3.12.6/lib" />
@@ -17092,6 +17564,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/puma-3.12.6/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/3.12.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/puma-3.12.6/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/puma-3.12.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/puma-3.12.6/lib" />
@@ -17541,6 +18014,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/racc/1.5.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/racc-1.5.2/lib" />
@@ -17550,6 +18024,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/racc-1.5.2/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/racc/1.5.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/racc-1.5.2/lib" />
@@ -18031,6 +18506,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-protection-2.0.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="rack-proxy (v0.6.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-proxy-0.6.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-proxy-0.6.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-proxy-0.6.5/test" />
+      </excluded>
+    </library>
     <library name="rack-test (v0.6.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18203,6 +18694,13 @@
       <SOURCES />
     </library>
     <library name="rails (v5.2.4.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rails (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -18529,6 +19027,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.4.5/exe" />
       </excluded>
     </library>
+    <library name="railties (v5.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/railties-5.2.5/exe" />
+      </excluded>
+    </library>
     <library name="rainbow (v3.0.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18814,11 +19328,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.4/lib" />
@@ -19088,12 +19604,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/redcarpet/3.5.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/redcarpet-3.5.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/redcarpet-3.5.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/redcarpet-3.5.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/redcarpet-3.5.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/redcarpet/3.5.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/redcarpet-3.5.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/redcarpet-3.5.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/redcarpet-3.5.1/lib" />
@@ -19599,6 +20117,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.0.3/spec" />
       </excluded>
     </library>
+    <library name="regexp_parser (v2.1.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.1.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/regexp_parser-2.1.1/spec" />
+      </excluded>
+    </library>
     <library name="request_store (v1.5.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -19707,6 +20241,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/retryable-2.0.4/spec" />
       </excluded>
     </library>
+    <library name="reverse_markdown (v1.4.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/reverse_markdown-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/reverse_markdown-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/reverse_markdown-1.4.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/reverse_markdown-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/reverse_markdown-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/reverse_markdown-1.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/reverse_markdown-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/reverse_markdown-1.4.0/spec" />
+      </excluded>
+    </library>
     <library name="rexml (v3.1.9, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -19754,6 +20307,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rexml-3.2.4/lib" />
       </SOURCES>
+    </library>
+    <library name="rexml (v3.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rexml-3.2.5/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rexml-3.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rexml-3.2.5/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rexml-3.2.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rexml-3.2.5/doc" />
+      </excluded>
     </library>
     <library name="roo (v1.13.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
@@ -21738,6 +22307,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sass-rails-5.0.8/lib" />
       </SOURCES>
     </library>
+    <library name="sawyer (v0.8.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sawyer-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sawyer-0.8.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sawyer-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sawyer-0.8.2/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sawyer-0.8.2/script" />
+      </excluded>
+    </library>
     <library name="scanf (v1.0.0, ruby-2.5.0-p0) [gem]">
       <CLASSES />
       <SOURCES />
@@ -21785,6 +22370,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/selenium-webdriver-3.142.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="semantic_range (v2.3.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/semantic_range-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/semantic_range-2.3.1/lib" />
       </SOURCES>
     </library>
     <library name="sexp_processor (v4.13.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -22549,6 +23145,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/site_prism-3.7/lib" />
       </SOURCES>
     </library>
+    <library name="site_prism (v3.7.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/site_prism-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/site_prism-3.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="site_prism-all_there (v0.3.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -22570,6 +23177,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/site_prism-all_there-0.3.2/lib" />
       </SOURCES>
+    </library>
+    <library name="solargraph (v0.40.4, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/solargraph-0.40.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/solargraph-0.40.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/solargraph-0.40.4/yardoc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/solargraph-0.40.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/solargraph-0.40.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/solargraph-0.40.4/yardoc" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/solargraph-0.40.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/solargraph-0.40.4/yardoc" />
+      </excluded>
     </library>
     <library name="spreadsheet (v1.2.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
@@ -24073,6 +24699,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/thor-1.0.1/bin" />
       </excluded>
     </library>
+    <library name="thor (v1.1.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/thor-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/thor-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/thor-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/thor-1.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/thor-1.1.0/bin" />
+      </excluded>
+    </library>
     <library name="thread_safe (v0.3.6, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -24841,6 +25483,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/uglifier-1.3.0/spec" />
+      </excluded>
+    </library>
+    <library name="uglifier (v4.2.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/uglifier-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/uglifier-4.2.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/uglifier-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/uglifier-4.2.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/uglifier-4.2.0/.github" />
       </excluded>
     </library>
     <library name="unf (v0.1.4, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -25677,6 +26335,31 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.11.1/minitest" />
       </excluded>
     </library>
+    <library name="webmock (v3.12.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/minitest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.12.2/minitest" />
+      </excluded>
+    </library>
     <library name="webmock (v3.8.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -25853,6 +26536,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webmock-3.9.3/minitest" />
       </excluded>
     </library>
+    <library name="webpacker (v5.2.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webpacker-5.2.1/gemfiles" />
+      </excluded>
+    </library>
     <library name="webrick (v1.4.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -25945,10 +26656,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/websocket-driver-0.7.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/websocket-driver-0.7.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/websocket-driver-0.7.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/websocket-driver-0.7.3/lib" />
       </SOURCES>
@@ -26286,6 +26999,40 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/xpath-3.2.0/spec" />
+      </excluded>
+    </library>
+    <library name="yard (v0.9.24, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/po" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/templates" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/po" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/templates" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/po" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/templates" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/yard-0.9.24/benchmarks" />
       </excluded>
     </library>
     <library name="zeitwerk (v2.1.9, chruby: ruby-2.6.3) [gem]" type="rubylib">
