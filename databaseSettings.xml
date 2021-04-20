@@ -1,11 +1,11 @@
 <application>
-  <component name="DatabaseSettings" version="5">
+  <component name="DatabaseSettings" version="7">
     <option name="reuse-result-tab" value="false" />
     <option name="always-review-parameters" value="false" />
-    <option name="execute-outside-option" value="2" />
+    <option name="execute-inside-option" value="2" />
     <option name="execute-selection-option" value="3" />
     <exec-options>
-      <exec-option new-tab="true" exec-outside="2" exec-selection="3" />
+      <exec-option new-tab="true" exec-inside="2" exec-selection="3" />
       <exec-option />
       <exec-option />
     </exec-options>
@@ -24,7 +24,7 @@
         <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-literals="false" scope="*,-SQL" predefined="$a.b.c$?" />
         <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-literals="false" scope="*,-SQL" predefined="#a.b.c#?" />
         <parameter-pattern value="%\((\w+)\)s" in-literals="false" scope="Python" predefined="%(name)s" />
-        <parameter-pattern value="&lt;%=?.*%&gt;" />
+        <parameter-pattern value="&lt;%=?([^%]*)%&gt;" in-scripts="true" />
         <parameter-pattern value="#{name}" in-scripts="true" />
       </parameter-patterns>
     </text-mode>
