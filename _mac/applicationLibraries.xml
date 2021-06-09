@@ -600,6 +600,22 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="git (v1.8.1, asdf: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/git-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/git-1.8.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/git-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/git-1.8.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/git-1.8.1/.github" />
+      </excluded>
+    </library>
     <library name="i18n (v1.8.10, asdf: 2.6.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1387,6 +1403,17 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-13.0.1/.github" />
       </excluded>
     </library>
+    <library name="rchardet (v1.8.0, asdf: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/rchardet-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/rchardet-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v6.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1996,6 +2023,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/unicode-display_width-2.0.0/data" />
+      </excluded>
+    </library>
+    <library name="up (v0.0.2, asdf: 2.6.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/up-0.0.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/up-0.0.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/up-0.0.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/up-0.0.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/up-0.0.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/up-0.0.2/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/up-0.0.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.7/lib/ruby/gems/2.6.0/gems/up-0.0.2/man" />
       </excluded>
     </library>
     <library name="uri (v0.10.0, asdf: 2.7.3) [gem]" type="rubylib">
